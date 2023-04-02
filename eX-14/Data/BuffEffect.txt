@@ -296,14 +296,6 @@
 //261	245	14	48	"Jack O'Lantern Cry"	0	0	1	"Defense increase +100"	//보라
 //262	73	14	97	"Scroll of Battle"	0	1	1	"Critical damage increase 5%"	//하늘색
 //263	74	14	98	"Scroll of Strength"	0	1	1	"Excellent Damage Increased by 5%"	//초록
-256	246	14	432	"[Increase]HP Elixir"	0	0	1	"Increases maximum HP +700."
-257	246	14	433	"[Increase]Mana Elixir"	0	0	1	"Increases maximum Mana +700."
-258	246	14	434	"[Increase]Speed Elixir"	0	0	1	"Increases attack speed +10."
-259	247	14	435	"[Enhance]Attack Elixir"	0	0	1	"Increases attack power +40."
-260	247	14	436	"[Enhance]Wizardry Elixir"	0	0	1	"Increases wizardry +40."
-261	247	14	437	"[Enhance]Defense Elixir"	0	0	1	"Increases defense +100."
-262	247	14	438	"[Enhance]Critical Elixir"	0	0	1	"Increases critical damage +85."
-263	247	14	439	"[Enhance]Excellent Elixir"	0	0	1	"Increases excellent damage +85."
 // 4차 전직 스킬강화트리 버프 등록 (2017-03-14 사재일)									
 264	256	255	255	"Swell Life Enhancement"	0	0	1	"Increases Swell Life HP"	
 265	257	255	255	"Mana Shield Enhancement"	0	0	1	"Increases Mana Shield Damage Reduction"	
