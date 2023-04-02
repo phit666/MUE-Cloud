@@ -1,0 +1,26 @@
+; ID		- Event ID
+; Month		- -1 All months / Specific value from 1 - 12
+; WDay		- -1 All week days / Specific value from 0 (Sunday) to 6 (Saturday)
+; MDay		- -1 All days / Specific value from 1 to 31
+; Hour		- -1 All hours / Specific 0 to 23
+; Minute	- 0 to 60
+; Map		- -1 All maps / Specific map value
+;
+; Event ID Reference:
+; 1	- Extra Exp. Rate
+; 2	- Drop Event
+; 3	- Dungeon Race
+; 4	- Bring Me
+; 5	- PvP Event
+; 6	- Marry
+; 7	- Lottery
+; 10	- Scramble words
+; 11	- Monster Spawn
+; 14	- Gambling Event
+; 15	- Hunt and Kill Monster
+; 16	- Gens War (you can put the specific server code under map/server code)
+/-----------------------------------------------------------------------------/
+| 	ID	Month	WDay	MDay	Hour	Minute	Map/Svrcode	Flag  |
+/-----------------------------------------------------------------------------/
+	18	-1	-1	-1	21	47	-1	1	
+	18	-1	-1	-1	19	34	-1	2

@@ -1,0 +1,14 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+
+//[Lorencia] Liaman The Barmaid
+//Type	Index	Level	Dur	Skill	Luck	Option		
+	
+14	9	0	1	0	0	0 	//술
+14	10	0	1	0	0	0 	//마을귀환문서
+//13	29	0	1	0	0	0 	//근위병의갑옷세트
+16	239	0	0	0	0	0 	//화살(+2)
+end

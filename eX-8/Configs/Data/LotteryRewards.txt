@@ -1,0 +1,17 @@
+/-------------------------------------------------------------------------------
+| Lottery Rewards: Max is 3 lines
+| ID			- Any specific number you like from 0 to 65535 and should be unique
+| MatchingNumbers	- Required minimum number of match to win this ID (2 TO 12)	
+| iType			- Reward item type / set to -1 if you dont want to give item reward
+| iIndex		- Reward item index
+| iLevel		- Reward item level (0 to 13/15)
+| iOption		- Reward item option (0 to 7)
+| iExc			- Specific excellent options (e.g 63 - full opts)
+| RewardPCPoints	- 0 to 2M
+| RewardCashPoints	- 0 to 2m
+/----------------------------------------------------------------------------------------------------------------------------------
+|	ID	MatchingNumbers	iType	iIndex	iLevel	iOption	iExc	RewardPCPoints	RewardCashPoints
+/----------------------------------------------------------------------------------------------------------------------------------
+	1	4		-1	0	0	0	0	0		0		// jackpot - 4 matches
+	2	3		-1	0	0	0	0	0		500		// 3 matches
+	3	2		-1	0	0	0	0	0		10		// 2 matches

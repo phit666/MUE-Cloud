@@ -1,0 +1,62 @@
+// ME Custom Store
+// NOTES:
+// 1. Max store you can set here is 99
+// 2. Valid store id is from 1 to 99
+// 3. You can use this to replace the original stores, if you do this remove those npc from monstersetbase
+// 4. Dont add this NPC to monstersetbase
+// NPC_ID	- NPC Mob ID from monster.txt
+// STORE_ID	- Store ID Below
+// ACCESS	- 1 = All / 2 = VIP / 3 = GM
+// NPC_MAP	- Map spawn location for NPC
+// NPC_MAPX	- NPC map X coordinate
+// NPC_MAPY	- NPC map Y coordinate
+// NPC_DIR	- NPC direction (1 - 4)
+0
+// 	NPC_ID	STORE_ID	ACCESS	NPC_MAP	NPC_MAPX	NPC_MAPY	NPC_DIR
+	583	1		1	91	55		197		2	// eX7 JIN
+end
+
+// STORES
+
+// Store 1
+1
+// 	Type	Index	Level	Dur	Opt	Skill	Luck	Exc	Socket
+	14	0	0	1	0	0	0 	0	0	//사과	
+	14	1	0	1	0	0	0 	0	0	//작은치료물약	
+	14	2	0	1	0	0	0 	0	0	//중간치료물약	
+	14	3	0	1	0	0	0 	0	0	//큰치료물약	
+	14	4	0	1	0	0	0 	0	0	//작은마나물약	
+	14	5	0	1	0	0	0 	0	0	//중간마나물약	
+	14	6	0	1	0	0	0 	0	0	//큰마나물약	
+	14	8	0	1	0	0	0 	0	0	//해독물약	
+	14	0	0	3	0	0	0 	0	0	//사과(3)	
+	14	1	0	3	0	0	0 	0	0	//작은치료물약(3)	
+	14	2	0	3	0	0	0 	0	0	//중간치료물약(3)	
+	14	3	0	3	0	0	0 	0	0	//큰치료물약(3)	
+	14	4	0	3	0	0	0 	0	0	//작은마나물약(3)	
+	14	5	0	3	0	0	0 	0	0	//중간마나물약(3)	
+	14	6	0	3	0	0	0 	0	0	//큰마나물약(3)	
+	14	8	0	3	0	0	0 	0	0	//해독물약(3)	
+	// 물약리스트 +1								
+	14	0	1	1	0	0	0 	0	0	//사과	
+	14	1	1	1	0	0	0 	0	0	//작은치료물약	
+	14	2	1	1	0	0	0 	0	0	//중간치료물약	
+	14	3	1	1	0	0	0 	0	0	//큰치료물약	
+	14	0	1	3	0	0	0 	0	0	//사과(3)	
+	14	1	1	3	0	0	0 	0	0	//작은치료물약(3)	
+	14	2	1	3	0	0	0 	0	0	//중간치료물약(3)	
+	14	3	1	3	0	0	0 	0	0	//큰치료물약(3)	
+	// 활/석궁통								
+	4	7	0	255	0	0	0 	0	0	//석궁용화살	
+	4	7	1	255	0	0	0 	0	0	//석궁용화살(+1)	
+	4	7	2	255	0	0	0 	0	0	//석궁용화살(+2)	
+	4	15	0	255	0	0	0 	0	0	//화살	
+	4	15	1	255	0	0	0 	0	0	//화살(+1)	
+	4	15	2	255	0	0	0 	0	0	//화살(+2)	
+	// 공성관련								
+	13	7	0	1	0	0	0 	0	0	//활용병	
+	13	7	1	1	0	0	0 	0	0	//창용병	
+	// 일반								
+	14	10	0	1	0	0	0 	0	0	//마을귀환문서	
+	13	29	0	1	0	0	0 	0	0	//근위병의갑옷세트	
+end

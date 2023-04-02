@@ -1,0 +1,93 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Box Of Kundun +5 Drop Settings                                               早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭					
+1
+//	EventName	                  DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate											
+	"Box Of Kundun +5"	0	0	                  0	0	0	                  100	                                                      500											
+end
+// | Type | Index | MinLevel | MaxLevel | Skill | Luck | Option | Excellent |	
+10
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+6000	
+																		
+2	4	0	0	60	40	0	70	40	10	0	//"Crystal Morning Star"		
+2	5	0	0	60	40	0	70	40	10	0	//"Crystal Sword"		
+2	9	0	0	60	40	0	70	40	10	0	//"Master Scepter"
+0	33	0	0	60	40	0	70	40	10	0	//"Holly Storm Claws"	
+3	15	0	0	60	40	0	70	40	10	0	//"Holly Storm Claws"	
+
+4	13	0	0	60	40	0	70	40	10	0	//"Bluewing Crossbow"		
+4	14	0	0	60	40	0	70	40	10	0	//"Aquagold Crossbow"	
+
+5	6	0	0	60	40	0	70	40	10	0	//"Staff of Resurrection"	
+5	17	0	0	60	40	0	70	40	10	0	//"Ancient Stick"			
+
+6	16	0	0	60	40	0	70	40	10	0	//"Elemental Shield"		
+6	15	0	0	60	40	0	70	40	10	0	//"Grand Soul Shield"	
+6	30	0	0	60	40	0	70	40	10	0	//"Grand Soul Shield"	
+
+7	26	0	0	60	40	0	70	40	10	0	//"Adamantine Mask"			
+7	34	0	0	60	40	0	70	40	10	0	//"Ashcrow Helm"			
+7	35	0	0	60	40	0	70	40	10	0	//"Eclipse Helm"			
+7	36	0	0	60	40	0	70	40	10	0	//"Iris Helm"		
+7	41	0	0	60	40	0	70	40	10	0	//"Ancient Helm"		
+
+8	34	0	0	60	40	0	70	40	10	0	//"Ashcrow Armor"			
+8	35	0	0	60	40	0	70	40	10	0	//"Eclipse Armor"		
+8	41	0	0	60	40	0	70	40	10	0	//"Ancient Armor"			
+8	36	0	0	60	40	0	70	40	10	0	//"Iris Armor"			
+8	26	0	0	60	40	0	70	40	10	0	//"Adamantine Armor"		
+8	15	0	0	60	40	0	70	40	10	0	//"Storm Crow Armor"	
+
+9	34	0	0	60	40	0	70	40	10	0	//"Ashcrow Pants"			
+9	35	0	0	60	40	0	70	40	10	0	//"Eclipse Pants"			
+9	36	0	0	60	40	0	70	40	10	0	//"Iris Pants"		
+9	26	0	0	60	40	0	70	40	10	0	//"Adamantine Pants"	
+9	41	0	0	60	40	0	70	40	10	0	//"Ancient Pants "		
+9	15	0	0	60	40	0	70	40	10	0	//"Storm Crow Pants"	
+
+10	42	0	0	60	40	0	70	40	10	0	//"Demonic Gloves"		
+10	15	0	0	60	40	0	70	40	10	0	//"Storm Crow Gloves"	
+10	18	0	0	60	40	0	70	40	10	0	//"Grand Soul Gloves"		
+10	19	0	0	60	40	0	70	40	10	0	//"Divine Gloves"		
+10	27	0	0	60	40	0	70	40	10	0	//"Dark Steel Gloves"		
+10	16	0	0	60	40	0	70	40	10	0	//"Black Dragon Gloves"	
+
+11	34	0	0	60	40	0	70	40	10	0	//"Ashcrow Boots"			
+11	35	0	0	60	40	0	70	40	10	0	//"Eclipse Boots"			
+11	36	0	0	60	40	0	70	40	10	0	//"Iris Boots"			
+11	15	0	0	60	40	0	70	40	10	0	//"Storm Crow Boots"	
+11	18	0	0	60	40	0	70	40	10	0	//"Grand Soul Boots"	
+11	42	0	0	60	40	0	70	40	10	0	//"Demonic Boots"			
+11	16	0	0	60	40	0	70	40	10	0	//"Black Dragon Boots"
+
+7	60	0	0	60	40	0	70	40	10	0	//"Storm Hard Helm"
+8	60	0	0	60	40	0	70	40	10	0	//"Storm Hard Armor"
+9	60	0	0	60	40	0	70	40	10	0	//"Storm Hard Pants"
+11	60	0	0	60	40	0	70	40	10	0	//"Storm Hard Boots"
+9	92	0	0	60	40	0	70	40	10	0	//"Storm Hard Pants"
+10	92	0	0	60	40	0	70	40	10	0	//"Storm Hard Boots"	
+11	92	0	0	60	40	0	70	40	10	0	//"Storm Hard Boots"	
+end
+
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+3500
+0	500	0	0	0	0	0	0	0	0	0	//"EC Promo Rate"	
+0	500	1	1	0	0	0	0	0	0	0	//"EC Promo Rate"	
+0	500	1	2	0	0	0	0	0	0	0	//"EC Promo Rate"	
+end
+
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+500
+14	13	0	0	0	0	0	0	0	0	0		
+14	14	0	0	0	0	0	0	0	0	0		
+12	15	0	0	0	0	0	0	0	0	0		
+14	16	0	0	0	0	0	0	0	0	0		
+end
+
+end

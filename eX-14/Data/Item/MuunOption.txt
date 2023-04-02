@@ -1,0 +1,134 @@
+//////////////////////////////////////////////////////////////////////////////////////														
+// MuunOption														
+//	[ Start  ] 	2013-06-05												
+//	[ Latest ]	2014-02-17 15:23												
+//	[ Author ]	박혜진												
+//	[ Version ]	0.0.0.9												
+//	[ Text ]	3월 뮨 추가												
+//	[ 사용부서 ]	서버, 클라이언트												
+//////////////////////////////////////////////////////////////////////////////////////														
+//==================================================================================================================================														
+//0														
+//	펫 옵션													
+//	Option Type	Name												
+//	1	" 공격력/마력/저주력 증가 +%d"												
+//	2	" 방어력 증가 +%d"												
+//	3	" 엑설런트 데미지 증가 +%d"												
+//	4	" 크리티컬 데미지 증가 +%d"												
+//	5	" 스킬 공격력 증가 +%d"												
+//	6	" 데미지 감소"												
+//	7	" 최대 공격력/마력/저주력 증가 +%d"												
+//	50	" 공격 스킬 (%d단계)"												
+//	51	" 데미지 흡수 스킬 (%d단계)"												
+//	52	" 스턴 스킬 (%단계)"												
+//end														
+//1														
+//	condition Type	Name												
+//	1	"특정 사냥터"												
+//	2	"특정 레벨"												
+//	3	"특정 시간"												
+//	4	"특정 요일"												
+//														
+//end
+//	Index: Index of the option (unique)
+//	Type: Set Option type
+//	Value0: Option value of Muun after evolution
+//	Value1: Option value at Muun Level 1
+//	Value2: Option value at Muun Level 2
+//	Value3: Option value at Muun Level 3
+//	Value4: Option value at Muun Level 4
+//	Value5: Option value at Muun Level 5
+//	ConditionType: 1 - Map, 2 - Level Range, 3 - Time (Hours), 4 - Day
+//	ConditionValue1:
+//	ConditionValue2:
+//			1) If ConditionType set to 1 then ConditionValue1 is used to define MapNumber
+//			   the Muun Options are active on, ConditionValue2 must be set -1 then
+//			2) If ConditionType set to 2 then ConditionValue1 is used to define minimum player level (regular + master)
+//			   to use the Muun and ConditionValue2 is used to define maximum player level (regular + master)
+//			3) If ConditionType set to 3 then ConditionValue1 is used to define start hour (0-23) and ConditionValue2
+//			   to define end hour (0-23) between which the Muun Options are active
+//			4) If ConditionType set to 4 then ConditionValue1 is used to define day of weeks the Muun Options are active on
+//			   ConditionValue1 is set to -1 then options are active every day, ConditionValue2 should be -1
+//				Days are represented as sum of bits where:
+//					~ 64: Sunday
+//					~ 32: Monday
+//					~ 16: Tuesday
+//					~ 8:  Wednesday
+//					~ 4:  Thursday
+//					~ 2:  Friday
+//					~ 1:  Saturday
+//				Example: Monday, Tuesday and Wednesday will be 32+16+8 = 56  
+//	Name: Name of the option
+//	Description: Description of the option														
+//==================================================================================================================================														
+//2														
+//Index	Type	Unk1	Name	Value 0	Value 1	Value 2	Value 3	Value 4	Value 5	Condition Type	Description	Condition Value 1	Condition Value 2	Unk2	Unk3	Unk4	Unk5
+0	2	32	"Increase Defense +%d"	38	22	26	30	34	0	3	"6 ~ 12PM"	18	24	3	46	71	108
+1	1	32	"Increase Attack Power/Mana/Curse Spells +%d"	8	2	4	6	0	0	1	"Swamp of Peace Hunting Field"	56	-1	1	0	0	0
+2	4	32	"Increase Critical Damage +%d"	6	2	4	0	0	0	2	"Level 1 ~ 200"	1	200	2	0	0	0
+3	1	32	"Increase Attack Power/Mana/Curse Spells +%d"	24	14	16	18	20	22	4	"Thu, Fri, Sat, Sun"	71	-1	4	0	0	0
+4	3	32	"Increase Excellent Damage +%d"	10	4	6	8	0	0	3	"1 ~ 12AM"	1	12	3	0	0	0
+5	3	32	"Increase Excellent Damage +%d"	8	2	4	6	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+6	7	32	"Increase Maximum Attack Power/Mana/Curse Spells +%d"	24	14	16	18	20	22	4	"Thu, Fri, Sat, Sun"	71	-1	4	0	0	0
+7	4	32	"Increase Critical Damage +%d"	8	2	4	6	0	0	2	"201 ~ Master Level"	201	820	2	0	0	0
+8	4	32	"Increase Critical Damage +%d"	8	2	4	6	0	0	2	"Level 1 ~ 200"	1	200	2	0	0	0
+9	3	32	"Increase Excellent Damage +%d"	21	9	12	15	18	0	4	"Mon, Tue, Wed"	56	-1	4	0	0	0
+10	3	32	"Increase Excellent Damage +%d"	38	23	26	29	32	35	4	"Thu, Fri, Sat, Sun"	71	-1	4	0	0	0
+11	1	32	"Increase Attack Power/Mana/Curse Spells +%d"	14	6	8	10	12	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+12	2	32	"Increase Defense +%d"	14	2	6	10	0	0	2	"Level 1 ~ 200"	1	200	2	0	0	0
+13	50	32	"Attack Skill (%dLevel)"	10	4	6	8	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+14	1	32	"Increase Attack Power/Mana/Curse Spells +%d"	24	14	16	18	20	22	4	"Thu, Fri, Sat, Sun"	71	-1	4	0	0	0
+15	7	32	"Increases MAX Attack Power/Magical Damage/Curse by +%d (non-PVP)"	8	2	4	6	0	0	2	"Level 1 ~ 300"	1	300	2	0	0	0
+16	50	32	"Attack Skill (%dLevel)"	10	4	6	8	0	0	4	"Mon, Tue, Wed"	56	-1	4	0	0	0
+17	7	32	"Increase Maximum Attack Power/Mana/Curse Spells +%d"	24	14	16	18	20	22	4	"Thu, Fri, Sat, Sun"	71	-1	4	0	0	0
+18	50	32	"Attack Skill (%dLevel)"	10	4	6	8	0	0	2	"201 ~ Master Level"	201	820	2	0	0	0
+19	1	32	"Increase Attack Power/Mana/Curse Spells +%d"	8	2	4	6	0	0	4	"Mon, Tue, Wed"	56	-1	4	0	0	0
+20	5	32	"Increase Skill Attack Power +%d"	19	9	11	13	15	17	4	"Thu, Fri, Sat, Sun"	71	-1	4	0	0	0
+21	5	32	"Increase Skill Attack Power +%d"	8	2	4	6	0	0	4	"Mon, Tue, Wed"	56	-1	4	0	0	0
+22	50	32	"Attack Skill (%dLevel)"	10	4	6	8	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+23	10	32	"Increases Excellent Damage +%d (non-PVP)"	8	2	4	6	0	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+24	8	32	"Increases Attack Power/Magical Damage/Curse by +%d (non-PVP)"	24	14	16	18	20	22	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+25	53	32	"Attack Skill (Level %d) (non-PVP)"	10	4	6	8	0	0	2	"201 ~ Master Level"	201	820	2	0	0	0
+26	14	32	"Increases MAX Attack Power/Magical Damage/Curse by +%d (non-PVP)"	24	14	16	18	20	22	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+27	14	32	"Increases MAX Attack Power/Magical Damage/Curse by +%d (non-PVP)"	8	2	4	6	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+28	53	32	"Attack Skill (Level %d) (non-PVP)"	10	4	6	8	0	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+29	1	32	"Increases Attack Power/Magical Damage/Curse by +%d"	22	14	16	18	20	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+30	5	32	"Increases Skill Damage +%d"	17	9	11	13	15	0	4	"Thu, Fri, Sat, Sun"	71	-1	4	0	0	0
+31	3	32	"Increases Excellent Damage +%d"	35	23	26	29	32	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+32	12	32	"Increases Skill Damage by +%d (non-PVP)"	19	9	11	13	15	17	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+33	8	32	"Increases Attack Power/Magical Damage/Curse by +%d (non-PVP)"	8	2	4	6	0	0	2	"201 ~ Master Level"	201	820	2	0	0	0
+34	53	32	"Attack Skill (Level %d) (non-PVP)"	10	4	6	8	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+35	11	32	"Increases Critical Damage Chance +%d (non-PVP)"	8	2	4	6	0	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+36	12	73	"ncreases +%d skill damage (Non-PvP)"	8	2	4	6	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+37	17	73	"ncreases zen acquired on monster death by %d%%"	8	2	4	6	0	0	7	"Played the game for longer than %d/5 Hours"	5	-1	7	0	0	0
+38	15	68	"ecreases item repair fee by %d%%"	4	1	2	3	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+39	53	65	"ttack Skill (Level %d) (non-PVP)"	10	4	6	8	0	0	7	"Played the game for longer than %d/5 Hours"	5	-1	7	0	0	0
+40	8	32	"Increases Damage/Magical Damage/Curse by %d (non-PVP)#Applies to PvP when Evolved"	24	14	16	18	20	22	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+41	1	32	"Increases Damage/Magical Damage/Curse by %d (PVP)"	24	14	16	18	20	22	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+42	14	32	"Increases Max Damage/Magical Damage/Curse by %d (non-PVP)#Applies to PvP when Evolved"	24	14	16	18	20	22	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+43	7	32	"Increases Max Damage/Magical Damage/Curse by %d (PVP)"	24	14	16	18	20	22	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+44	2	73	"ncreases Defense by + %d"	14	2	6	10	0	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+45	18	73	"ncreases Elemental damage by + %d"	14	6	8	10	12	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+46	19	73	"ncreases Elemental Defense by +%d"	11	3	5	7	9	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+47	1	32	"Increases Damage/Magical Damage/Curse by +%d"	14	6	8	10	12	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+48	8	32	"Increases Damage/Magical Damage/Curse by +%d (Non-PvP)"	8	2	4	6	0	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+49	10	73	"ncreases Excellent Damage by +%d (Non-PvP)"	8	2	4	6	0	0	2	"201 ~ Master Level"	201	820	2	0	0	0
+50	12	32	"Increases Skill Damage by +%d (non-PVP)#Applies to PvP when Evolved"	19	9	11	13	15	17	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+51	5	73	"ncreases Skill Damage by +%d (PvP)"	19	9	11	13	15	17	4	"Wed, Thu, Fri, Sat, Sun"	79	-1	4	0	0	0
+52	14	77	"aximum Attack Power/Mana/Curse Spells (non-PVP) +%d"	8	2	4	6	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+53	12	83	"kill Damage (non-PvP) +%d"	8	2	4	6	0	0	2	"201 ~ Master Level"	201	820	2	0	0	0
+54	53	65	"ttack Skill (Level %d) (non-PVP)"	10	4	6	8	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+55	15	68	"ecreases item repair fee by %d%%"	4	1	2	3	0	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+56	12	73	"ncreases Skill Damage (non-PVP)"	0	0	0	0	0	0	4	"Equip Muun" 	127	-1	4	0	0	0
+57	11	67	"ritical Damage (non-PvP) +%d"	8	2	4	6	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+58	2	73	"ncrease Defense +%d"	14	2	6	10	0	0	3	"6 ~ 12PM"	18	24	3	0	0	0
+59	2	73	"ncrease Defense +%d"	14	2	6	10	0	0	4	"Thu, Fri, Sat, Sun"	71	-1	4	0	0	0
+60	12	73	"ncreases Skill Damage by +%d (non-PVP)"	19	9	11	13	15	17	4	"Equip Muun" 	127	-1	4	0	0	0
+61	9	73	"ncrease Defense (non-PvP) +%d"	14	2	6	10	0	0	3	"1 ~ 12PM"	13	24	3	0	0	0
+68	8	32	"Increases Attack Power/Magical Damage/Curse by +%d (non-PVP)"	12	3	5	7	9	0	4	"Equip Muun" 	127	-1	4	0	0	0
+69	12	32	"Skill DMG +%d (non-PVP)"	15	15	15	15	15	15	4	"Equip Muun" 	127	-1	4	0	0	0
+70	12	32	"Skill DMG +%d (non-PVP)"	8	2	4	6	0	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+71	9	68	"EF +%d (non-PVP)"	14	2	6	10	0	0	4	"Mon, Tue, Wed, Thu"	60	-1	4	0	0	0
+72	21	69	"lemental DEF +%d (non-PVP)"	10	10	10	10	10	10	4	"Equip Muun" 	127	-1	4	0	0	0
+endend
+

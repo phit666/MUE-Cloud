@@ -1,0 +1,18 @@
+// List all maps here
+/---------------------------------
+|	MapNumber	MapName
+/---------------------------------
+	0		Lorencia
+	1		Dungeon3
+	2		Devias
+	3		Noria
+	4		Losttower7
+	6		Arena
+	7		Atlans
+	8		Tarkan
+	10		Icarus
+	37		Kanturu
+	38		Kanturu-Relics
+	112		Ferea
+
+	
