@@ -1,0 +1,53 @@
+///골드 데르콘 습격						
+//일반아이템						
+	12	15	0	0	0	0	//Jewel of Chaos
+	14	14	0	0	0	0	//Jewel of Soul
+	14	13	0	0	0	0	//Jewel of Bless
+	14	16	0	0	0	0	//Jewel of Life
+	7	16	7	0	0	0
+	8	16	7	0	0	0
+	9	16	7	0	0	0
+	10	16	7	0	0	0
+	11	16	7	0	0	0
+	7	14	7	0	0	0
+	8	14	7	0	0	0
+	9	14	7	0	0	0
+	10	14	7	0	0	0
+	11	14	7	0	0	0
+	5	8	7	0	0	0
+	4	16	7	0	0	0
+	0	16	7	0	0	0
+
+//엑설런트						
+	13	8	0	0	1	0	//Excellent Ring of Ice
+	13	9	1	0	1	0	//Excellent Ring of Poison+1
+	13	12	1	0	1	0	//Excellent Lightning Pendant+1
+	13	13	1	0	1	0	//Excellent Fire Pendant+1
+	7	1	0	0	1	0
+	8	1	0	0	1	0
+	9	1	0	0	1	0
+	10	1	0	0	1	0
+	11	1	0	0	1	0
+	7	14	0	0	1	0
+	8	14	0	0	1	0
+	9	14	0	0	1	0
+	10	14	0	0	1	0
+	11	14	0	0	1	0
+	7	3	0	0	1	0
+	8	3	0	0	1	0
+	9	3	0	0	1	0
+	10	3	0	0	1	0
+	11	3	0	0	1	0
+	5	5	0	0	1	0
+	4	14	0	0	1	0
+	4	13	0	0	1	0
+	5	6	0	0	1	0	//Excellent Resurrection Staff
+	2	9	0	0	1	0  //master scepter
+	2	4	0	0	1	0
+	2	5	0	0	1	0   //Cristal Sword
+	3	9	0	0	1	0
+	7 	26 	0 	0 	1 	0   //Storm Mask
+	8 	26 	0 	0  	1 	0 //Storm Armor
+	9 	26 	0 	0  	1 	0 //Storm Pants
+	10 	26 	0 	0 	1 	0 //Storm Gloves
+	11 	26 	0 	0  	1 	0 //Storm Boots

@@ -1,0 +1,18 @@
+0
+// CacheSerial	SQLHost		SQLDSN		User	Pass	Initial Queue (Auto Grow)
+	500	"127.0.0.1"	"MuOnline"	"sa"	"Kfgq3ijgsw3"	500
+end
+
+1
+// ServerListenPort
+	55962
+end
+
+3
+// ExtendedVaultTable	IndexColumn
+	"CireExWare"	"idx"
+end
+
+4
+"LogHistoryDB"
+end

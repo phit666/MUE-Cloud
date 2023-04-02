@@ -1,0 +1,202 @@
+Scrambled words of Game Items will be displayed
+Short Sword
+Rapier
+Katana
+Sword of Assassin
+Blade
+Gladius
+Falchion
+Serpent Sword
+Sword of Salamander
+Light Saber
+Legendary Sword
+Heliacal Sword
+Double Blade
+Lighting Sword
+Giant Sword
+Small Axe
+Hand Axe
+Double Axe
+Tomahawk
+Elven Axe
+Battle Axe
+Nikea Axe
+Larkan Axe
+Crescent Axe
+Morning Star
+Flail
+Great Hammer
+Crystal Morning Star
+Chaos Dragon Axe
+Light Spear
+Dragon Lance
+Giant Trident
+Serpent Spear
+Double Poleaxe
+Halberd
+Berdysh
+Great Scythe
+Bill of Balrog
+Short Bow
+Elven Bow
+Battle Bow
+Tiger Bow
+Silver Bow
+Chaos Nature Bow
+Crossbow
+Golden Crossbow
+Arquebus
+Light Crossbow
+Serpent Crossbow
+Skull Staff
+Angelic Staff
+Serpent Staff
+Thunder Staff
+Gorgon Staff
+Legendary Staff
+Chaos Lighting Staff
+Small Shield
+Horn Shield
+Kite Shield
+Elven Shield
+Buckler
+Dragon Slayer Shield
+Skull Shield
+Spiked Shield
+Tower Shield
+Plate Shield
+Large Round Shield
+Serpent Shield
+Bronze Shield
+Dragon Shield
+Legendary Shield
+Bronze Helm
+Dragon Helm
+Pad Helm
+Legendary Helm
+Bone Helm
+Leather Helm
+Scale Helm
+Sphinx Mask
+Brass Helm
+Plate Helm
+Vine Helm
+Silk Helm
+Wind Helm
+Spirit Helm
+Guardian Helm
+Bronze Armor
+Dragon Armor
+Pad Armor
+Legendary Armor
+Bone Armor
+Leather Armor
+Scale Armor
+Sphinx Armor
+Brass Armor
+Plate Armor
+Vine Armor
+Silk Armor
+Wind Armor
+Spirit Armor
+Guardian Armor
+Bronze Pants
+Dragon Pants
+Pad Pants
+Legendary Pants
+Bone Pants
+Leather Pants
+Scale Pants
+Sphinx Pants
+Brass Pants
+Plate Pants
+Vine Pants
+Silk Pants
+Wind Pants
+Spirit Pants
+Guardian Pants
+Bronze Gloves
+Dragon Gloves
+Pad Gloves
+Legendary Gloves
+Bone Gloves
+Leather Gloves
+Scale Gloves
+Sphinx Gloves
+Brass Gloves
+Plate Gloves
+Vine Gloves
+Silk Gloves
+Wind Gloves
+Spirit Gloves
+Guardian Gloves
+Bronze Boots
+Dragon Boots
+Pad Boots
+Legendary Boots
+Bone Boots
+Leather Boots
+Scale Boots
+Sphinx Boots
+Brass Boots
+Plate Boots
+Vine Boots
+Silk Boots
+Wind Boots
+Spirit Boots
+Guardian Boots
+Wings of Elf
+Wings of Heaven
+Wings of Satan
+Twisting Slash Orb
+Healing Orb
+Greater Defence Orb
+Greater Damage Orb
+Orb of Summoning
+Orb of Impale
+Greater Fortitude Orb
+Jewel of Chaos
+Orb of Fire Slash
+Orb of Penetration
+gem of secret
+Guardian Angel
+Horn of Uniria
+Horn of Dinorant
+Ring of Ice
+Ring of Poison
+Pendant of Lighting
+Pendant of Fire
+Ring of Fire
+Ring of Earth
+Ring of Wind
+Ring of Magic
+Pendant of Ice
+Pendant of Wind
+Pendant of Water
+Pendant of Ability
+Small Healing Potion
+Healing Potion
+Large Healing Potion
+Small Mana Potion
+Mana Potion
+Large Mana Potion
+Siege Potion
+Town Portal Scroll
+Box of Luck
+Jewel of Bless
+Jewel of Soul
+Scroll of the Emperor
+Broken Sword
+Tear of Elf
+Soul Shard of Wizard
+Scroll of Poison
+Scroll of Meteorite
+Scroll of Lighting
+Scroll of Fire Ball
+Scroll of Flame
+Scroll of Teleport
+Scroll of Ice
+Scroll of Twister
+Evil Spirit Scroll
+Scroll of Hellfire
+Scroll of Power Wave

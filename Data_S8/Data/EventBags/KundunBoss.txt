@@ -1,0 +1,110 @@
+//############################################
+// POWERED BY MU ENGINE                     //
+// WWW.MUENGINE.ORG                      	//
+// Edited By: ScriptKid                    	//
+//###########################################
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Kundun Boss Kalima 7 Drop Settings                                               早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭					
+1
+//	EventName	                  DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate											
+	"Kundun Boss"			0	0	                  0	0		0	                  100	          500											
+end
+// | Type | Index | MinLevel | MaxLevel | Skill | Luck | Option | Excellent |	
+10
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+4000
+
+8	29	0	4		100		100		0	0		0		0		0	// Dragon Knight Armor
+8	30	0	4		100		100		0	0		0		0		0	// Venom Armor
+8	31	0	4		100		100		0	0		0		0		0	// Sylpid Armor
+8	32	0	4		100		100		0	0		0		0		0	// Volcano Armor
+8	33	0	4		100		100		0	0		0		0		0	// Sunlight Armor
+
+
+end
+
+//type	index	minlvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+5000
+7	16	0	4	0	100	   0	100	    100		0		0	// Black Dragon Helm
+8	16	0	4	0	100	   0	100	    100		0		0	// Black Dragon Armor
+9	16	0	4	0	100	   0	100	    100		0		0	// Black Dragon Pants
+10	16	0	4	0	100	   0	100	    100		0		0	// Black Dragon Gloves
+11	16	0	4	0	100	   0	100	    100		0		0	// Black Dragon Boots
+7	35	0	4	0	100	   0	100	    100		0		0	// Eclipse Helm
+8	35	0	4	0	100	   0	100	    100		0		0	// Eclipse Armor
+9	35	0	4	0	100	   0	100	    100		0		0	// Eclipse Pants
+10	35	0	4	0	100	   0	100	    100		0		0	// Eclipse Gloves
+11	35	0	4	0	100	   0	100	    100		0		0	// Eclipse Boots
+6	15	0	4	0	100	   0	100	    100		0		0	// Grand Soul Shield
+7	18	0	4	0	100	   0	100	    100		0		0	// Grand Soul Helm
+8	18	0	4	0	100	   0	100	    100		0		0	// Grand Soul Armor
+9	18	0	4	0	100	   0	100	    100		0		0	// Grand Soul Pants
+10	18	0	4	0	100	   0	100	    100		0		0	// Grand Soul Gloves
+11	18	0	4	0	100	   0	100	    100		0		0	// Grand Soul Boots
+7	22	0	4	0	100	   0	100	    100		0		0	// Dark Soul Helm
+8	22	0	4	0	100	   0	100	    100		0		0	// Dark Soul Armor
+9	22	0	4	0	100	   0	100	    100		0		0	// Dark Soul Pants
+10	22	0	4	0	100	   0	100	    100		0		0	// Dark Soul Gloves
+11	22	0	4	0	100	   0	100	    100		0		0	// Dark Soul Boots
+7	14	0	4	0	100	   0	100	    100		0		0	// Guardian Helm
+8	14	0	4	0	100	   0	100	    100		0		0	// Guardian Armor
+9	14	0	4	0	100	   0	100	    100		0		0	// Guardian Pants
+10	14	0	4	0	100	   0	100	    100		0		0	// Guardian Gloves
+11	14	0	4	0	100	   0	100	    100		0		0	// Guardian Boots
+7	24	0	4	0	100	   0	100	    100		0		0	// Red Spirit Helm
+8	24	0	4	0	100	   0	100	    100		0		0	// Red Spirit Armor
+9	24	0	4	0	100	   0	100	    100		0		0	// Red Spirit Pants
+10	24	0	4	0	100	   0	100	    100		0		0	// Red Spirit Gloves
+11	24	0	4	0	100	   0	100	    100		0		0	// Red Spirit Boots
+7	26	0	4	0	100	   0	100	    100		0		0	// Adamantine Mask
+8	26	0	4	0	100	   0	100	    100		0		0	// Adamantine Armor
+9	26	0	4	0	100	   0	100	    100		0		0	// Adamantine Pants
+10	26	0	4	0	100	   0	100	    100		0		0	// Adamantine Gloves
+11	26	0	4	0	100	   0	100	    100		0		0	// Adamantine Boots
+7	28	0	4	0	100	   0	100	    100		0		0	// Dark Master Mask
+8	28	0	4	0	100	   0	100	    100		0		0	// Dark Master Armor
+9	28	0	4	0	100	   0	100	    100		0		0	// Dark Master Pants
+10	28	0	4	0	100	   0	100	    100		0		0	// Dark Master Gloves
+11	28	0	4	0	100	   0	100	    100		0		0	// Dark Master Boots
+8	20	0	4	0	100	   0	100	    100		0		0	// Thunder Hawk Armor
+9	20	0	4	0	100	   0	100	    100		0		0	// Thunder Hawk Pants
+10	20	0	4	0	100	   0	100	    100		0		0	// Thunder Hawk Gloves
+11	20	0	4	0	100	   0	100	    100		0		0	// Thunder Hawk Boots
+8	23	0	4	0	100	   0	100	    100		0		0	// Hurricane Armor
+9	23	0	4	0	100	   0	100	    100		0		0	// Hurricane Pants
+10	23	0	4	0	100	   0	100	    100		0		0	// Hurricane Gloves
+11	23	0	4	0	100	   0	100	    100		0		0	// Hurricane Boots
+7	60	0	4	0	100	   0	100	    100		0		0	// Storm Jahad Helm
+8	60	0	4	0	100	   0	100	    100		0		0	// Storm Jahad Armor
+9	60	0	4	0	100	   0	100	    100		0		0	// Storm Jahad Pants
+11	60	0	4	0	100	   0	100	    100		0		0	// Storm Jahad Boots
+7	61	0	4	0	100	   0	100	    100		0		0	// Piercing Groove Helm
+8	61	0	4	0	100	   0	100	    100		0		0	// Piercing Groove Armor
+9	61	0	4	0	100	   0	100	    100		0		0	// Piercing Groove Pants
+11	61	0	4	0	100	   0	100	    100		0		0	// Piercing Groove Boots
+7	70	0	4	0	100	   0	100	    100		0		0	// Red Wing Helm
+8	70	0	4	0	100	   0	100	    100		0		0	// Red Wing Armor
+9	70	0	4	0	100	   0	100	    100		0		0	// Red Wing Pants
+10	70	0	4	0	100	   0	100	    100		0		0	// Red Wing Gloves
+11	70	0	4	0	100	   0	100	    100		0		0	// Red Wing Boots
+7	42	0	4	0	100	   0	100	    100		0		0	// Demonic Helm
+8	42	0	4	0	100	   0	100	    100		0		0	// Demonic Armor
+9	42	0	4	0	100	   0	100	    100		0		0	// Demonic Pants
+10	42	0	4	0	100	   0	100	    100		0		0	// Demonic Gloves
+11	42	0	4	0	100	   0	100	    100		0		0	// Demonic Boots
+end
+
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only									
+1000
+5	12	0	4		100		100		0	0		0		0		0		// Grand Viper Staff
+0	22	0	4		100		100		0	0		0		0		0		// Bone Blade
+4	21	0	4		100		100		0	0		0		0		0		// Sylph Wind Bow
+0	23	0	4		100		100		0	0		0		0		0		// Explosion Blade
+2	14	0	4		100		100		0	0		0		0		0		// Solay Scepter
+5	19	0	4		100		100		0	0		0		0		0		// Storm Blitz Stick
+0	35	0	4		100		100		0	0		0		0		0		// Phoenix Soul Star
+
+
+end
+end

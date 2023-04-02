@@ -1,0 +1,13 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+// Allowed User Connect List
+// Only Current GameServer
+
+"aDmin"
+"lorelie"
+"newgm"
+//"kClauDexxx"
+//"mcdrix99"
+//"cadi14"

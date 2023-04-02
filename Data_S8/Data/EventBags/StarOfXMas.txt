@@ -1,0 +1,121 @@
+// Text Ver. 0.0.0.4																					
+// Version 0.97t  - T서버																					
+// Version 0.97r  - M서버																					
+// 최종 작업자 - 정동일																					
+// 최종 작업일 - 오전 11:06 2003-12-22																				
+// 내용: 성탄의 별 이벤트 (2003년 12월 18일 ~ 30일) 																					
+																					
+//드롭가능맵 설정																					
+0																					
+//	MapIndex	Drop Flag	Min Monster Level	Max MonsterLevel																	
+	0	0	0	1000	//로랜시아																
+	1	0	0	1000	//던전																
+	2	1	0	1000	//데비아스																
+	3	0	0	1000	//노리아																
+	4	0	0	1000	//로스트타워																
+	5	0	0	1000	//빈공간																
+	6	0	0	1000	//경기장(배틀사커)																
+	7	0	0	1000	//아틀란스																
+	8	0	0	1000	//타르칸																
+	9	0	0	1000	//악마의광장																
+	10	0	0	1000	//이카루스																
+end																					
+																					
+//드롭젠 및 아이템드롭 확률																					
+//이벤트아이템 드롭 확률은 EventItemDropRate/1000																					
+//아이템드롭 확률은 ItemDropRate/100, ExItemDropRate/1000																				
+1																					
+//	EventName	DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate													
+	"StarOfXMas"	1000	14	11	1	30	30	0													
+end																					
+																					
+//skill, luck, addtoption 의 값이 1이면 랜덤으로 적용, 0이면 적용안함																				
+10																					
+//	type index 	minlevel maxlevel skillrate luckrate jolopt exc1rate exc2rate exc3rate arkaonl													
+//2003년 12월 18일 ~ 30일																					
+//무기류 및 방패류																					
+7	6	0	4	70	50	1	2000	500	0	0		//Scale Helm
+8	6	0	4	70	50	1	2000	500	0	0		//Scale Armor
+9	6	0	4	70	50	1	2000	500	0	0		//Scale Pants
+10	6	0	4	70	50	1	2000	500	0	0		//Scale Gloves
+11	6	0	4	70	50	1	2000	500	0	0		//Scale Boots
+7	8	0	4	70	50	1	2000	500	0	0		//Brass Helm
+8	8	0	4	70	50	1	2000	500	0	0		//Brass Armor
+9	8	0	4	70	50	1	2000	500	0	0		//Brass Pants
+10	8	0	4	70	50	1	2000	500	0	0		//Brass Gloves
+11	8	0	4	70	50	1	2000	500	0	0		//Brass Boots
+7	12	0	4	70	50	1	2000	500	0	0		//Wind Helm
+8	12	0	4	70	50	1	2000	500	0	0		//Wind Armor
+9	12	0	4	70	50	1	2000	500	0	0		//Wind Pants
+10	12	0	4	70	50	1	2000	500	0	0		//Wind Gloves
+11	12	0	4	70	50	1	2000	500	0	0		//Wind Boots
+1	4	0	4	70	50	1	2000	500	0	0		//Fairy Axe
+1	5	0	4	70	50	1	2000	500	0	0		//Battle Axe
+1	6	0	4	70	50	1	2000	500	0	0		//Nikkea Axe
+0	6	0	4	70	50	1	2000	500	0	0		//Gladius
+0	7	0	4	70	50	1	2000	500	0	0		//Falchion
+0	8	0	4	70	50	1	2000	500	0	0		//Serpant Sword
+0	9	0	4	70	50	1	2000	500	0	0		//Sword of Salamander
+5	3	0	4	70	50	1	2000	500	0	0		//Lightning Staff
+5	4	0	4	70	50	1	2000	500	0	0		//Gorgon Staff
+4	12	0	4	70	50	1	2000	500	0	0		//Serpent Crossbow
+3	4	0	4	70	50	1	2000	500	0	0		//Serpent Spear
+3	5	0	4	70	50	1	2000	500	0	0		//Double Poleaxe
+3	6	0	4	70	50	1	2000	500	0	0		//Helberd
+7	7	0	4	70	50	1	2000	500	0	0		//Sphinx Helm
+8	7	0	4	70	50	1	2000	500	0	0		//Sphinx Armor
+9	7	0	4	70	50	1	2000	500	0	0		//Sphinx Pants
+10	7	0	4	70	50	1	2000	500	0	0		//Sphinx Gloves
+11	7	0	4	70	50	1	2000	500	0	0		//Sphinx Boots
+6	5	0	4	70	50	1	2000	500	0	0		//Dragon Slayer Shield
+6	7	0	4	70	50	1	2000	500	0	0		//Spiked Shield
+6	8	0	4	70	50	1	2000	500	0	0		//Tower Shield
+2	8	0	4	70	50	1	2000	500	0	0		//Battle Scepter
+7	13	0	4	70	50	1	2000	500	0	0		 //Spirit Helm
+8	13	0	4	70	50	1	2000	500	0	0		 //Spirit Armor
+9	13	0	4	70	50	1	2000	500	0	0		 //Spirit Pants
+10	13	0	4	70	50	1	2000	500	0	0		 //Spirit Gloves
+11	13	0	4	70	50	1	2000	500	0	0		 //Spirit Boots
+6	9	0	4	70	50	1	2000	500	0	0		//Plate Shield
+6	12	0	4	70	50	1	2000	500	0	0		//Bronze Shield
+11	9	0	4	70	50	1	2000	500	0	0		 //Plate Boots
+7	9	0	4	70	50	1	2000	500	0	0		 //Plate Helm
+8	9	0	4	70	50	1	2000	500	0	0		 //Plate Armor
+9	9	0	4	70	50	1	2000	500	0	0		 //Plate Pants
+10	9	0	4	70	50	1	2000	500	0	0		 //Plate Gloves
+7	39	0	4	70	50	1	2000	500	0	0		 //Violent Helm
+8	39	0	4	70	50	1	2000	500	0	0		 //Violent Armor
+9	39	0	4	70	50	1	2000	500	0	0		 //Violent Pants
+10	39	0	4	70	50	1	2000	500	0	0		 //Violent Gloves
+11	39	0	4	70	50	1	2000	500	0	0		 //Violent Boots
+6	9	0	4	70	50	1	2000	500	0	0		//Plate Shield
+6	12	0	4	70	50	1	2000	500	0	0		//Bronze Shield
+6	14	0	4	70	50	1	2000	500	0	0		//Legendary Shield
+3	8	0	4	70	50	1	2000	500	0	0		 //Great Scythe
+2	9	0	4	70	50	1	2000	500	0	0		//Master Scepter
+5	14	0	4	70	50	1	2000	500	0	0		 //Mystery Stick
+5	21	0	4	70	50	1	2000	500	0	0		 //Book of Samut
+5	22	0	4	70	50	1	2000	500	0	0		 //Book of Neil
+0	13	0	4	70	50	1	2000	500	0	0		 //Double Blade
+0	3	0	4	70	50	1	2000	500	0	0		 //Katana
+0	4	0	4	70	50	1	2000	500	0	0		 //Sword Of Assassin
+0	5	0	4	70	50	1	2000	500	0	0		 //Blade
+1	3	0	4	70	50	1	2000	500	0	0		 //Tomahawk
+4	5	0	4	70	50	1	2000	500	0	0		 //Silver Bow
+4	11	0	4	70	50	1	2000	500	0	0		 //Silver Bow
+4	12	0	4	70	50	1	2000	500	0	0		 //Silver Bow
+13	13	0	3	0	0	1	2000	400	0	0		 //"Pendant of Fire"
+13	9	0	3	0	0	1	2000	400	0	0		 //"Ring of Poison"
+13	8	0	3	0	0	1	2000	400	0	0		 //"Ring of Ice"
+13	12	0	3	0	0	1	2000	400	0	0		 //"Pendant of Lighting"
+13	21	0	3	0	0	1	2000	400	0	0		 //"Ring of Fire"
+13	25	0	3	0	0	1	2000	400	0	0		 //"Pendant of Ice"
+13	22	0	3	0	0	1	2000	400	0	0		 //"Ring of Earth"
+13	26	0	3	0	0	1	2000	400	0	0		 //"Pendant of Wind"
+13	23	0	3	0	0	1	2000	400	0	0		 //"Ring of Wind"
+13	27	0	3	0	0	1	2000	400	0	0		 //"Pendant of Water"
+13	24	0	3	0	0	1	2000	400	0	0		 //"Ring of Magic"
+13	28	0	3	0	0	1	2000	400	0	0		 //"Pendant of Ability"
+0	500	1	3	0	50	0	0	0	0	0		 // bonus ec
+0	502	1	3	0	70	0	0	0	0	0		 // ticket
+end									

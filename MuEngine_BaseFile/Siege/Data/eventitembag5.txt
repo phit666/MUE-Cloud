@@ -1,0 +1,10 @@
+// LasTLand  2006
+// Heart of Love & firecracker - c'e' uno scarto di un +1 opt
+// - Special Drop JEWEL - e invito Devil e Blood
+12	15	0	0	0	0	//Jewel of Chaos
+14	14	0	0	0	0	//Jewel of Soul
+14	13	0	0	0	0	//Jewel of Bless
+14 	28 	5 	0 	0 	0 	//Lost Map+6
+14	28 	6 	0 	0 	0 	//Lost Map+7
+14	19	5	0	0	0	//Devil Invite+6
+13	18	6	0	0	0	//Invito Blood+7

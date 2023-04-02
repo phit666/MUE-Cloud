@@ -1,0 +1,5 @@
+0
+"virtual"	"microsoft corp"
+"virtual"	"oracle corp"
+"desktop"	"intel corp"
+end

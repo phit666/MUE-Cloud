@@ -1,0 +1,79 @@
+ 3200
+ ?// Text Ver. 0.0.0.1																					
+// Version 0.99y+  - T서버																					
+// Version 0.99y  - M서버																					
+// 최종 작업자 - 최현준																					
+// 최종 작업일 - 오전 11:23 2005-03-03																					
+// 내용: 시련의땅 아이템 드롭 설정																					
+																					
+//드롭가능맵 설정																					
+0																					
+//	MapIndex	Drop Flag	Min Monster Level	Max MonsterLevel																	
+	0	0	0	1000	//로랜시아																
+	1	0	0	1000	//던전																
+	2	0	0	1000	//데비아스																
+	3	0	0	1000	//노리아																
+	4	0	0	1000	//로스트타워																
+	5	0	0	1000	//빈공간																
+	6	0	0	1000	//경기장(배틀사커)																
+	7	0	0	1000	//아틀란스																
+	8	0	0	1000	//타르칸																
+	9	0	0	1000	//악마의광장																
+	10	0	0	1000	//이카루스																
+end																					
+																					
+//드롭젠 및 아이템드롭 확률																					
+//이벤트아이템 드롭 확률은 EventItemDropRate/1000																					
+//아이템드롭 확률은 ItemDropRate/100, ExItemDropRate/1000																					
+1																					
+//	EventName	DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate													
+	"ErohimBoss"	1000000	0	0	0	0	100	25													
+end																					
+																					
+//skill, luck, addtoption 의 값이 1이면 랜덤으로 적용, 0이면 적용안함 																					
+2																					
+//	type	index	minLevel	maxLevel	skill	luck	addoption	exitemflag													
+//2003년 12월 18일 ~ 30일																					
+//무기류																					
+	5	12	0	0	1	0	1	0	// Excellent Grand Viper Staff
+	5	19	0	0	1	0	1	0	// Excellent Grand Viper Staff
+	0	22	0	0	1	0	1	0	// Excellent Bone Blade
+	4	21	0	0	1	0	1	0	// Excellent Sylph Wind Bow
+	0	23	0	0	1	0	1	0	// Excellent Explosion Blade
+	2	14	0	0	1	0	1	0	// Excellent Solay Scepter
+	7	29	0	0	0	0	0	0	// Excellent Dragon Knight Helm
+	7	30	0	0	0	0	0	0	// Excellent Venom Helm
+	7	31	0	0	0	0	0	0	// Excellent Sylpid Helm
+	7	33	0	0	0	0	0	0	// Excellent Sunlight Helm
+	8	29	0	0	0	0	0	0	// Excellent Dragon Knight Armor
+	8	30	0	0	0	0	0	0	// Excellent Venom Armor
+	8	31	0	0	0	0	0	0	// Excellent Sylpid Armor
+	8	32	0	0	0	0	0	0	// Excellent Volcano Armor
+	8	33	0	0	0	0	0	0	// Excellent Sunlight Armor
+	9	29	0	0	0	0	0	0	// Excellent Dragon Knight Pants
+	9	30	0	0	0	0	0	0	// Excellent Venom Pants
+	9	31	0	0	0	0	0	0	// Excellent Sylpid Pants
+	9	32	0	0	0	0	0	0	// Excellent Volcano Pants
+	9	33	0	0	0	0	0	0	// Excellent Sunlight Pants
+	10	29	0	0	0	0	0	0	// Excellent Dragon Knight Gloves
+	10	30	0	0	0	0	0	0	// Excellent Venom Gloves
+	10	31	0	0	0	0	0	0	// Excellent Sylpid Gloves
+	10	32	0	0	0	0	0	0	// Excellent Volcano Gloves
+	10	33	0	0	0	0	0	0	// Excellent Sunlight Gloves
+	11	29	0	0	0	0	0	0	// Excellent Dragon Knight Boots
+	11	30	0	0	0	0	0	0	// Excellent Venom Boots
+	11	31	0	0	0	0	0	0	// Excellent Sylpid Boots
+	11	32	0	0	0	0	0	0	// Excellent Volcano Boots
+	11	33	0	0	0	0	0	0	// Excellent Sunlight Boots	
+	7	43	0	0	0	0	0	0	// Excellent Sunlight Boots	
+	8	43	0	0	0	0	0	0	// Excellent Sunlight Boots	
+	9	43	0	0	0	0	0	0	// Excellent Sunlight Boots	
+	10	43	0	0	0	0	0	0	// Excellent Sunlight Boots	
+	11	43	0	0	0	0	0	0	// Excellent Sunlight Boots	
+	0	20	0	0	1	1	1	2	//Knight Blade
+	0	21	0	0	1	1	1	2	//Dark Reign Blade
+	2	12	0	0	1	1	1	2	//Great Lord Scepter
+	4	20	0	0	1	1	1	2	//Arrow Viper Bow
+	5	11	0	0	1	1	1	2	//Staff of Kundun
+	5	18	0	0	1	1	1	2	//Staff of Kundun
+end			

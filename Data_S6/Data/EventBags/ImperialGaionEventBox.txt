@@ -1,0 +1,35 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+// ExcOptFixed :
+// 1 - Will Drop The Exact Number Of (Random) Exc Option You Set in MaxExc
+// 0 - Will Drop Random Number Of Exc Options Between 0 And Number You Set in MaxExc
+
+// Imperial Fort (Gaion boss only) - Max 100 Lines
+/----------------------------------------------------------------------------------------
+|	Type	Index	Level	Luck	Skill	Option	MaxExc	ExcOptFixed
+/----------------------------------------------------------------------------------------
+	0	20	0	1	1	0	2	0
+	0	21	0	1	1	0	2	0
+	2	12	0	1	1	0	2	0
+	4	19	0	1	1	0	2	0
+	4	20	0	1	1	0	2	0
+	5	13	0	1	1	0	2	0
+	5	17	0	1	1	0	2	0
+	6	12	0	1	1	0	2	0
+	6	13	0	1	1	0	2	0
+	6	14	0	1	1	0	2	0
+	6	15	0	1	1	0	2	0
+	0	20	7	0	1	0	2	0
+	0	21	7	0	1	0	2	0
+	2	12	7	0	1	0	2	0
+	4	19	7	0	1	0	2	0
+	4	20	7	0	1	0	2	0
+	5	13	7	0	1	0	2	0
+	5	17	7	0	1	0	2	0
+	6	12	7	0	1	0	2	0
+	6	13	7	0	1	0	2	0
+	6	14	7	0	1	0	2	0
+	6	15	7	0	1	0	2	0

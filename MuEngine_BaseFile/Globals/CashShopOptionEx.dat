@@ -1,0 +1,22 @@
+//############################################
+// POWERED BY MU ENGINE                     //
+//    WWW.MUENGINE.ORG                      //
+//###########################################
+
+[CashShopOption]
+UseCashShop		= 1			; On / Off
+SocketSlotCount		= 1			; Max Slots to Be Added in Socketed Items
+// For S5 & S6 Only
+GlobalDiscountRate	= 0			; 0 - Disable or 1 to 100 (If You Put 50, 50% Of Original Price Will Be Deducted)
+
+ScriptVer1	= 524
+ScriptVer2	= 2011
+ScriptVer3	= 7
+
+BannerVer1	= 583
+BannerVer2	= 2010
+BannerVer3	= 5
+
+//
+AutoUpdateCsScripts	= 1
+DownloadUrl	= https://www.muonline.ph/sync/classic-ex

@@ -1,0 +1,75 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Box Of Kundun +1 Drop Settings                                               早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭					
+1
+//	EventName	                  DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate											
+	"Box Of Kundun +1"	0	0	                  0	0	0	                  100	                                                      500											
+end
+// | Type | Index | MinLevel | MaxLevel | Skill | Luck | Option | Excellent |	
+
+10
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+5000
+0	7	4	6	70	60	1	5	0	0	0		//"Falchion"
+0	8	4	6	70	60	1	5	0	0	0		//"Serpent Sword"
+0	9	4	6	70	60	1	5	0	0	0		//"Sword of Salamander"
+1	4	4	6	70	60	1	5	0	0	0		//"Elven Axe"
+1	5	4	6	70	60	1	5	0	0	0		//"Battle Axe"
+1	6	4	6	70	60	1	5	0	0	0		//"Nikea Axe"
+2	2	4	6	70	60	1	5	0	0	0		//"Flail"
+3	1	4	6	70	60	1	5	0	0	0		//"Spear"
+3	3	4	6	70	60	1	5	0	0	0		//"Giant Trident"
+4	3	4	6	70	60	1	5	0	0	0		//"Battle Bow"
+4	11	4	6	70	60	1	5	0	0	0		//"Light Crossbow"
+5	2	4	6	70	60	1	5	0	0	0		//"Serpent Staff"
+6	3	4	6	70	60	1	5	0	0	0		//"Elven Shield"
+6	9	4	6	70	60	1	5	0	0	0		//"Plate Shield"
+6	7	4	6	70	60	1	5	0	0	0		//"Spiked Shield"
+6	5	4	6	70	60	1	5	0	0	0		//"Dragon Slayer Shield"
+7	6	4	6	60	60	1	5	0	0	0		//"Scale Helm"
+7	12	4	6	60	60	1	5	0	0	0		//"Wind Helm"
+7	7	4	6	60	60	1	5	0	0	0		//"Sphinx Mask"
+8	4	4	6	60	60	1	5	0	0	0		//"Bone Armor"
+8	6	4	6	60	60	1	5	0	0	0		//"Scale Armor"
+8	12	4	6	60	60	1	5	0	0	0		//"Wind Armor"
+8	6	4	6	60	60	1	5	0	0	0		//"Scale Pants"
+8	12	4	6	60	60	1	5	0	0	0		//"Wind Pants"
+8	7	4	6	60	60	1	5	0	0	0		//"Sphinx Pants"
+8	8	4	6	60	60	1	5	0	0	0		//"Brass Pants"
+9	6	4	6	60	60	1	5	0	0	0		//"Scale Gloves"
+9	12	4	6	60	60	1	5	0	0	0		//"Wind Gloves"
+9	7	4	6	60	60	1	5	0	0	0		//"Sphinx Gloves"
+9	8	4	6	60	60	1	5	0	0	0		//"Brass Gloves"
+10	6	4	6	60	60	1	5	0	0	0		//"Scale Boots"
+10	12	4	6	60	60	1	5	0	0	0		//"Wind Boots"
+10	7	4	6	60	60	1	5	0	0	0		//"Sphinx Boots"
+10	8	4	6	60	60	1	5	0	0	0		//"Brass Boots"
+7	13	4	6	60	60	1	5	0	0	0		 //Spirit Helm
+8	13	4	6	60	60	1	5	0	0	0		 //Spirit Armor
+9	13	4	6	60	60	1	5	0	0	0		 //Spirit Pants
+10	13	4	6	60	60	1	5	0	0	0		 //Spirit Gloves
+11	13	4	6	60	60	1	5	0	0	0		 //Spirit Boots
+6	9	4	6	60	60	1	5	0	0	0		//Plate Shield
+6	12	4	6	60	60	1	5	0	0	0		//Bronze Shield
+11	9	4	6	60	60	1	5	0	0	0		 //Plate Boots
+7	9	4	6	60	60	1	5	0	0	0		 //Plate Helm
+8	9	4	6	60	60	1	5	0	0	0		 //Plate Armor
+9	9	4	6	60	60	1	5	0	0	0		 //Plate Pants
+10	9	4	6	60	60	1	5	0	0	0		 //Plate Gloves
+6	9	4	6	70	60	1	5	0	0	0		//Plate Shield
+6	12	4	6	70	60	1	5	0	0	0		//Bronze Shield
+6	14	4	6	70	60	1	5	0	0	0		//Legendary Shield
+3	8	4	6	70	60	1	5	0	0	0		 //Great Scythe
+2	9	4	6	70	60	1	5	0	0	0		//Master Scepter
+4	11	4	6	70	60	1	5	0	0	0		 //Silver Bow
+4	12	4	6	70	60	1	5	0	0	0		 //Silver Bow		
+end
+5000
+0	502	2	5	0	0	0	0	0	0	0		 //"ANNIV TICKET"
+end
+end

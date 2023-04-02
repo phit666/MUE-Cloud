@@ -1,0 +1,14 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+[GameServerInfo]
+ServerName       	= SIEGE
+ServerCode       	= 49
+NonPk 		 	= 0
+PkLimitFree	 	= 1
+ConnectMemberLoad	= 0
+// Enable / Disable Arca Server - You should set only one Arca Server
+EnableArcaBattleServer	= 1	; for eX versions only
+LogPath	= F:\Logs\Siege

@@ -1,0 +1,38 @@
+[FtpServerInfo]
+Address 		= 198.100.158.43
+Port    		= 8021
+ID      		=
+PASS			=
+
+[FtpServerInfo2]
+Address 		= 198.100.158.43
+Port    		= 8021
+ID      		=
+PASS			=
+
+[FtpServerInfo3]
+Address 		= 198.100.158.43
+Port    		= 8021
+ID      		=
+PASS			=
+
+
+[HttpServerInfo]
+HTTPAddress 		= 198.100.158.43
+Port   			= 80
+ID      		= MuOnline
+PASS			= MuOnline
+
+[GameServerInfo]
+// EX
+ClientVersion 		= 1.01.01
+VersionFileName 	= v1.wvd
+DownLoadType 		= 0
+// RB
+ClientVersion2 		= 1.01.01
+VersionFileName2 	= v1.wvd
+DownLoadType2 		= 0
+// CLASSIC
+ClientVersion3 		= 1.01.01
+VersionFileName3 	= v1.wvd
+DownLoadType3 		= 0

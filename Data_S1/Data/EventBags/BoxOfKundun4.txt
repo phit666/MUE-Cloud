@@ -1,0 +1,45 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Box Of Kundun +1 Drop Settings                                               早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭					
+1
+//	EventName	                  DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate											
+	"Box Of Kundun +1"	0	0	                  0	0	0	                  100	                                                      500											
+end
+// | Type | Index | MinLevel | MaxLevel | Skill | Luck | Option | Excellent |	
+
+10
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+10000		
+
+7	59	2	4	80	80	1	45	5	0	0	 //Spirit Helm		
+8	59	2	4	80	80	1	45	5	0	0	 //Spirit Armor		
+7	13	2	4	80	80	1	45	5	0	0	 //Spirit Helm		
+8	13	2	4	80	80	1	45	5	0	0	 //Spirit Armor		
+9	13	2	4	80	80	1	45	5	0	0	 //Spirit Pants		
+10	13	2	4	80	80	1	45	5	0	0	 //Spirit Gloves		
+11	13	2	4	80	80	1	45	5	0	0	 //Spirit Boots				
+6	9	2	4	80	80	1	45	5	0	0	//Plate Shield		
+6	12	2	4	80	80	1	45	5	0	0	//Bronze Shield	
+11	9	2	4	80	80	1	45	5	0	0	 //Plate Boots				
+7	9	2	4	80	80	1	45	5	0	0	 //Plate Helm		
+8	9	2	4	80	80	1	45	5	0	0	 //Plate Armor		
+9	9	2	4	80	80	1	45	5	0	0	 //Plate Pants		
+10	9	2	4	80	80	1	45	5	0	0	 //Plate Gloves		
+6	9	2	4	80	80	1	25	5	0	0	//Plate Shield		
+6	12	2	4	80	80	1	25	5	0	0	//Bronze Shield		
+6	14	2	4	80	80	1	25	5	0	0	//Legendary Shield
+3	8	2	4	80	80	1	25	5	0	0	 //Great Scythe		
+2	9	4	6	80	80	1	25	5	0	0	//Master Scepter	
+4	11	2	4	80	80	1	25	5	0	0	 //Silver Bow
+4	12	2	4	80	80	1	25	5	0	0	 //Silver Bow
+8	40	2	4	80	80	1	45	5	0	0	 //Spirit Armor		
+9	40	2	4	80	80	1	45	5	0	0	 //Spirit Pants		
+10	41	2	4	80	80	1	45	5	0	0	 //Spirit Armor		
+11	41	2	4	80	80	1	45	5	0	0	 //Spirit Pants		
+end
+end

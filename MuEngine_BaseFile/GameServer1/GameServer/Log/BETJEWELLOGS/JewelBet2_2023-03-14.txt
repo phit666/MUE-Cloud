@@ -1,0 +1,10 @@
+08:55:19  Set status to 1
+10:01:19  Set status to 5
+10:01:19  Set status to 0
+10:55:19  Set status to 1
+12:01:19  Set status to 5
+12:01:19  Set status to 0
+17:55:19  Set status to 1
+19:01:19  Set status to 5
+19:01:19  Set status to 0
+19:55:19  Set status to 1

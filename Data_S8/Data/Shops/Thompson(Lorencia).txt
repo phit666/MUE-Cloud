@@ -1,0 +1,49 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+//[Devias] Thompson Kennel
+//Type	Index	Level	Dur	Skill	Luck	Option
+	15	16	0	0	0	0	0	//  Scroll of Decay
+	15	17	0	0	0	0	0	//  Scroll of Ice Storm
+	15	18	0	0	0	0	0	//  Scroll of Nova
+	15	12	0	0	0	0	0	//  Scroll of Cometfall
+	15	15	0	0	0	0	0	//  Scroll of Soul Barrier
+	15	14	0	0	0	0	0	//  Scroll of Teleport Ally
+	15	8	0	0	0	0	0	//  Scroll of Evil Spirit	
+	15	19	0	0	0	0	0	//  Chain Lightning Parchment
+	15	20	0	0	0	0	0	//  Drain Life Parchment
+	15	21	0	0	0	0	0	//  Lightning Shock Parchment
+	15	22	0	0	0	0	0	//  Damage Reflection Parchment
+	15	23	0	0	0	0	0	//  Berserker Parchment
+	15	24	0	0	0	0	0	//  Sleep Parchment
+	15	26	0	0	0	0	0	//  Weakness Parchment
+	15	27	0	0	0	0	0	//  Innovation Parchment
+	15	28	0	0	0	0	0	//  Scroll of Wizardry Enhance
+	15	29	0	0	0	0	0	//  Scroll of Gigantic Storm
+	15	30	0	0	0	0	0	//  Chain Drive Parchment
+	15	31	0	0	0	0	0	//  Dark Side Parchment
+	15	32	0	0	0	0	0	//  Dragon Roar Parchment
+	15	33	0	0	0	0	0	//  Dragon Slasher Parchment
+	15	34	0	0	0	0	0	//  Ignore Defense Parchment
+	15	35	0	0	0	0	0	//  Increase Health Parchment
+	15	36	0	0	0	0	0	//  Increase Block Parchment
+	12	48	0	0	0	0	0	//  Scroll of Chaotic Diseier
+	12	35	0	0	0	0	0	//  Scroll of Fire Scream
+	12	24	0	0	0	0	0	//  Scroll of Electric Spark
+	12	7	0	0	0	0	0	//  Orb of Twisting Slash
+	12	16	0	0	0	0	0	//  Orb of Fire Slash
+	12	17	0	0	0	0	0	//  Orb of Penetration
+	12	19	0	0	0	0	0	//  Orb of Death Stab
+	12	18	0	0	0	0	0	//  Orb of Ice Arrow
+	12	14	0	0	0	0	0	//  Orb of Great Fortitude
+	12	21	0	0	0	0	0	//  Scroll of FireBurst
+	12	22	0	0	0	0	0	//  Scroll of Summon
+	12	23	0	0	0	0	0	//  Scroll of Critical Damage
+	12	47	0	0	0	0	0	//  Crystal of Flame Strike
+	12	44	0	0	0	0	0	//  Crystal of Destruction
+	12	45	0	0	0	0	0	//  Crystal of Multi-Shot
+	12	46	0	0	0	0	0	//  Crystal of Recovery
+	12	12	0	0	0	0	0	//  Orb of Anger Blow				
+end						

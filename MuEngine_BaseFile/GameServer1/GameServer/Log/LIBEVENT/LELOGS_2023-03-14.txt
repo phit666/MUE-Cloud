@@ -1,0 +1,94 @@
+20:37:09  s_conn_eventcb -> BEV_EVENT_ERROR : 11.
+20:37:09  s_conn_eventcb -> bufferevent_free : 11.
+20:37:12  s_conn_eventcb -> BEV_EVENT_ERROR : 0.
+20:37:12  s_conn_eventcb -> bufferevent_free : 0.
+20:37:20  EventDispatchStop -> event_base_loopbreak
+20:37:20  start_libevent -> bufferevent_free : 2
+20:37:20  start_libevent -> bufferevent_free : 3
+20:37:20  start_libevent -> bufferevent_free : 6
+20:37:20  start_libevent -> bufferevent_free : 8
+20:37:20  start_libevent -> event_del : timeout
+20:37:20  start_libevent -> event_free : timeout
+20:37:20  start_libevent -> event_base_free
+07:50:10  start_libevent -> event_base_new_with_config : IOCP
+07:50:10  start_libevent -> event_add : timeout
+07:50:10  start_libevent -> event_base_dispatch
+07:50:11  timercb -> GMAuthMueConnect
+07:50:11  S_MakeConnect -> bufferevent_socket_connect : 139.99.125.37:55557
+07:50:29  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55990
+07:50:29  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55557
+07:50:29  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:58970
+07:50:29  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55960
+07:50:29  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55962
+07:50:29  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55906
+07:50:29  s_conn_eventcb -> BEV_EVENT_ERROR : 10.
+07:50:29  s_conn_eventcb -> bufferevent_free : 10.
+07:57:15  EventDispatchStop -> event_base_loopbreak
+07:57:15  start_libevent -> bufferevent_free : 0
+07:57:15  start_libevent -> bufferevent_free : 2
+07:57:15  start_libevent -> bufferevent_free : 3
+07:57:15  start_libevent -> bufferevent_free : 6
+07:57:15  start_libevent -> bufferevent_free : 8
+07:57:15  start_libevent -> bufferevent_free : 11
+07:57:15  start_libevent -> event_del : timeout
+07:57:15  start_libevent -> event_free : timeout
+07:57:15  start_libevent -> event_base_free
+07:57:56  start_libevent -> event_base_new_with_config : IOCP
+07:57:56  start_libevent -> event_add : timeout
+07:57:56  start_libevent -> event_base_dispatch
+07:57:57  timercb -> GMAuthMueConnect
+07:57:57  S_MakeConnect -> bufferevent_socket_connect : 139.99.125.37:55557
+07:58:07  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55990
+07:58:07  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55557
+07:58:07  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:58970
+07:58:07  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55960
+07:58:07  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55962
+07:58:07  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55906
+07:58:07  s_conn_eventcb -> BEV_EVENT_ERROR : 10.
+07:58:07  s_conn_eventcb -> bufferevent_free : 10.
+07:59:55  EventDispatchStop -> event_base_loopbreak
+07:59:55  start_libevent -> bufferevent_free : 0
+07:59:55  start_libevent -> bufferevent_free : 2
+07:59:55  start_libevent -> bufferevent_free : 3
+07:59:55  start_libevent -> bufferevent_free : 6
+07:59:55  start_libevent -> bufferevent_free : 8
+07:59:55  start_libevent -> bufferevent_free : 11
+07:59:55  start_libevent -> event_del : timeout
+07:59:55  start_libevent -> event_free : timeout
+07:59:55  start_libevent -> event_base_free
+08:01:07  start_libevent -> event_base_new_with_config : IOCP
+08:01:07  start_libevent -> event_add : timeout
+08:01:07  start_libevent -> event_base_dispatch
+08:01:08  timercb -> GMAuthMueConnect
+08:01:08  S_MakeConnect -> bufferevent_socket_connect : 139.99.125.37:55557
+08:01:18  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55990
+08:01:18  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55557
+08:01:18  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:58970
+08:01:18  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55960
+08:01:18  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55962
+08:01:18  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55906
+08:01:18  s_conn_eventcb -> BEV_EVENT_ERROR : 10.
+08:01:18  s_conn_eventcb -> bufferevent_free : 10.
+08:01:29  EventDispatchStop -> event_base_loopbreak
+08:01:29  start_libevent -> bufferevent_free : 0
+08:01:29  start_libevent -> bufferevent_free : 2
+08:01:29  start_libevent -> bufferevent_free : 3
+08:01:29  start_libevent -> bufferevent_free : 6
+08:01:29  start_libevent -> bufferevent_free : 8
+08:01:29  start_libevent -> bufferevent_free : 11
+08:01:29  start_libevent -> event_del : timeout
+08:01:29  start_libevent -> event_free : timeout
+08:01:29  start_libevent -> event_base_free
+08:01:53  start_libevent -> event_base_new_with_config : IOCP
+08:01:53  start_libevent -> event_add : timeout
+08:01:53  start_libevent -> event_base_dispatch
+08:01:54  timercb -> GMAuthMueConnect
+08:01:54  S_MakeConnect -> bufferevent_socket_connect : 139.99.125.37:55557
+08:02:03  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55990
+08:02:03  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55557
+08:02:03  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:58970
+08:02:03  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55960
+08:02:03  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55962
+08:02:03  S_MakeConnect -> bufferevent_socket_connect : 127.0.0.1:55906
+08:02:03  s_conn_eventcb -> BEV_EVENT_ERROR : 10.
+08:02:03  s_conn_eventcb -> bufferevent_free : 10.

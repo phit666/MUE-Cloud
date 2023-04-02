@@ -1,0 +1,8 @@
+//
+28	"Lost Tower 1"
+30	"Lost Tower 2"
+32	"Lost Tower 3"
+34	"Lost Tower 4"
+36	"Lost Tower 5"
+38	"Lost Tower 6"
+40	"Lost Tower 7"

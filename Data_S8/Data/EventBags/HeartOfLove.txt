@@ -1,0 +1,120 @@
+//############################################
+// POWERED BY MU ENGINE                     //
+// WWW.MUENGINE.ORG                      	//
+// Edited By: ScriptKid                    	//
+//###########################################
+
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Box Of Kundun +1 Drop Settings                                               早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭					
+1
+//	EventName	                  DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate											
+	"Heart of Love"	0	0	                  0	0	0	                  100	                                                      500											
+end
+// | Type | Index | MinLevel | MaxLevel | Skill | Luck | Option | Excellent |	
+
+10
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+1000
+
+13	8	0	0	50	50	0	100	5	0	0	// Ring of Ice
+13	9	0	0	50	50	0	100	5	0	0	// Ring of Poison
+13	21	0	0	50	50	0	100	5	0	0	// Ring of Fire
+13	22	0	0	50	50	0	100	5	0	0	// Ring of Earth
+13	23	0	0	50	50	0	100	5	0	0	// Ring of Wind
+13	24	0	0	50	50	0	100	5	0	0	// Ring of Magic
+13	12	0	0	50	50	0	100	5	0	0	// Pendant of Lighting
+13	13	0	0	50	50	0	100	5	0	0	// Pendant of Fire
+13	25	0	0	50	50	0	100	5	0	0	// Pendant of Ice
+13	26	0	0	50	50	0	100	5	0	0	// Pendant of Wind
+13	27	0	0	50	50	0	100	5	0	0	// Pendant of Water
+13	28	0	0	50	50	0	100	5	0	0	// Pendant of Ability
+end
+
+2000
+0	34	0	0	50	50	0	100	5	0	0	// Piercing Blade Glove
+0	33	0	0	50	50	0	100	5	0	0	// Holy Storm Claws
+0	34	0	0	50	50	0	100	5	0	0	// Piercing Blade Glove
+0	31	0	0	50	50	0	100	5	0	0	// Rune Blade
+0	24	0	0	50	50	0	100	5	0	0	// Daybreak
+0	21	0	0	50	50	0	100	5	0	0	// Dark Reign Blade
+0	20	0	0	50	50	0	100	5	0	0	// Knight Blade
+0	18	0	0	50	50	0	100	5	0	0	// Thunder Blade
+0	17	0	0	50	50	0	100	5	0	0	// Dark Breaker
+0	16	0	0	50	50	0	100	5	0	0	// Sword of Destruction
+1	8	0	0	50	50	0	100	5	0	0	// Crescent Axe
+1	7	0	0	50	50	0	100	5	0	0	// Larkan Axe
+3	11	0	0	50	50	0	100	5	0	0	// Brova
+3	10	0	0	50	50	0	100	5	0	0	// Dragon Spear
+3	9	0	0	50	50	0	100	5	0	0	// Bill of Balrog
+3	8	0	0	50	50	0	100	5	0	0	// Great Scythe
+4	20	0	0	50	50	0	100	5	0	0	// Arrow Viper Bow
+4	19	0	0	50	50	0	100	5	0	0	// Great Reign Crossbow
+4	17	0	0	50	50	0	100	5	0	0	// Celestial Bow
+4	16	0	0	50	50	0	100	5	0	0	// Saint Crossbow
+5	23	0	0	50	50	0	100	5	0	0	// Book of Lagle
+5	22	0	0	50	50	0	100	5	0	0	// Book of Neil
+5	21	0	0	50	50	0	100	5	0	0	// Book of Shamut
+5	17	0	0	50	50	0	100	5	0	0	// Ancient Stick
+5	16	0	0	50	50	0	100	5	0	0	// Red Wing Stick
+5	11	0	0	50	50	0	100	5	0	0	// Staff of Kundun
+5	9	0	0	50	50	0	100	5	0	0	// Dragon Soul Staff
+5	8	0	0	50	50	0	100	5	0	0	// Staff of Destruction
+5	6	0	0	50	50	0	100	5	0	0	// Staff of Resurrection
+5	5	0	0	50	50	0	100	5	0	0	// Legendary Staff
+0	0	0	0	50	50	0	100	5	0	0	// Kris
+0	2	0	0	50	50	0	100	5	0	0	// Rapier
+0	5	0	0	50	50	0	100	5	0	0	// Blade
+0	14	0	0	50	50	0	100	5	0	0	// Lighting Sword	
+
+end                         
+
+3000
+0	0	0	0	50	50	0	100	5	0	0	// Kris
+7	0	0	0	50	50	0	100	5	0	0	// Bronze Helm
+7	1	0	0	50	50	0	100	5	0	0	// Dragon Helm
+7	2	0	0	50	50	0	100	5	0	0	// Pad Helm
+7	3	0	0	50	50	0	100	5	0	0	// Legendary Helm
+7	7	0	0	50	50	0	100	5	0	0	// Sphinx Mask
+7	16	0	0	50	50	0	100	5	0	0	// Black Dragon Helm
+7	17	0	0	50	50	0	100	5	0	0	// Dark Phoenix Helm
+7	18	0	0	50	50	0	100	5	0	0	// Grand Soul Helm
+7	19	0	0	50	50	0	100	5	0	0	// Holy Spirit Helm
+7	21	0	0	50	50	0	100	5	0	0	// Great Dragon Helm
+8	21	0	0	50	50	0	100	5	0	0	// Great Dragon Armor
+8	20	0	0	50	50	0	100	5	0	0	// Thunder Hawk Armor
+8	19	0	0	50	50	0	100	5	0	0	// Holy Spirit Armor
+8	18	0	0	50	50	0	100	5	0	0	// Grand Soul Armor
+8	17	0	0	50	50	0	100	5	0	0	// Dark Phoenix Armor
+8	16	0	0	50	50	0	100	5	0	0	// Black Dragon Armor
+8	15	0	0	50	50	0	100	5	0	0	// Storm Crow Armor
+8	14	0	0	50	50	0	100	5	0	0	// Guardian Armor
+8	13	0	0	50	50	0	100	5	0	0	// Spirit Armor
+9	13	0	0	50	50	0	100	5	0	0	// Spirit Pants
+9	12	0	0	50	50	0	100	5	0	0	// Wind Pants
+9	11	0	0	50	50	0	100	5	0	0	// Silk Pants
+9	10	0	0	50	50	0	100	5	0	0	// Vine Pants
+9	9	0	0	50	50	0	100	5	0	0	// Plate Pants
+9	8	0	0	50	50	0	100	5	0	0	// Brass Pants
+9	7	0	0	50	50	0	100	5	0	0	// Sphinx Pants
+9	6	0	0	50	50	0	100	5	0	0	// Scale Pants
+9	3	0	0	50	50	0	100	5	0	0	// Legendary Pants
+10	1	0	0	50	50	0	100	5	0	0	// Dragon Gloves
+10	6	0	0	50	50	0	100	5	0	0	// Scale Gloves
+11	9	0	0	50	50	0	100	5	0	0	// Plate Boots
+11	8	0	0	50	50	0	100	5	0	0	// Brass Boots
+11	7	0	0	50	50	0	100	5	0	0	// Sphinx Boots
+11	6	0	0	50	50	0	100	5	0	0	// Scale Boots
+11	5	0	0	50	50	0	100	5	0	0	// Leather Boots
+end
+
+
+4000
+12	15	0	0	0	0	0	0	0	0	0	// Jewel of Chaos
+14	13	0	0	0	0	0	0	0	0	0	// Jewel of Bless
+14	14	0	0	0	0	0	0	0	0	0	// Jewel of Soul
+14	16	0	0	0	0	0	0	0	0	0	// Jewel of Life
+14	22	0	0	0	0	0	0	0	0	0	// Jewel of Creation
+
+end
+end

@@ -1,0 +1,11 @@
+; SimpleLoop	= If value here is greater than 0 then it will disregard Day,Hour,Minute values
+;		other if you put value let say 30 then that specific notice message will be announced
+;		every 30 minutes. Put 0 to disable this option.
+; WDay		= -1 all days or specific day from 0 (Sunday) to 6 (Saturday)
+; Hour		= -1 all hours or specific from 0 - 23
+; Minute	= specific from 0 - 59
+; Message	= The message you want to display ingame, golden message. 
+/-----------------------------------------------------------------------------------------------------/
+|	SimpleLoop(Minute)	Day	Hour	Minute	Message					      |
+/-----------------------------------------------------------------------------------------------------/
+	600	-1	-1	0	"Castle Siege Server"

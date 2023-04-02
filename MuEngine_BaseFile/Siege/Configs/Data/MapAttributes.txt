@@ -1,0 +1,35 @@
+/--------------------------------------------------------------------------------------------------------------------------------------/
+|	MapNumber	= 0 to max available map
+|	X1		= starting X coordinate / -1 - ignore
+|	Y1		= starting y coordinate / -1 - ignore	
+|	X2		= ending x coordinate / -1 - ignore
+|	Y2		= ending y coordinate / -1 - ignore
+|	NON-PVP		= 1 - non-pk mode / 0 - pk mode / -1 follow map mode
+|	PlusExcRate	= 1 to 100, additional excellent drop rate
+|	PlusXP		= plus experience rate - formula (PlusXP/100 * Exp.)
+|	VIPOnly		= for VIP characters only
+|	IfEventOnly	= attributes will be effective during certain event only
+|	EventId		= if IfEventOnly is set to 1 then you need to set the specific event id here
+|	CantAttackMob	= 1 - player can not attack mob but mob can attack player 													
+|	PkFree		= 1 - dont increase pk level
+|	Gens		= 0 - allow duprian only / 1 - allow vanert only / 2 - allow duprian and vanert only	/ -1 allow all														
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------/
+|	MapNumber	X1	Y1	X2	Y2	NON-PVP	PlusExcRate	PlusXP	VIPOnly	IfEventOnly	EventId CantAttackMob	PkFree	GensMap	MUKING	NOPENTA	NOPSHOP	FORCEPK	NO-DROP-TILES	NOPK-MAX-LVL	|
+/-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------/
+	2		-1	-1	-1	-1	-1	0		0	0	0		0	0		0	-1	1	0	0	0	0	0
+	4		-1	-1	-1	-1	-1	0		0	0	0		0	0		0	-1	1	0	0	0	0	0
+	7		-1	-1	-1	-1	-1	0		0	0	0		0	0		0	-1	1	0	0	0	0	0
+	30		81	132	84	129	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		105	132	109	129	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		93	184	96	181	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		92	229	96	226	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		87	220	91	216	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		90	202	97	198	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		77	159	85	156	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		63	112	71	109	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		89	112	98	108	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		115	112	124	109	-1	0		0	0	0		0	0		0	-1	1	0	0	0	7	0
+	30		96	64	102	58	-1	0		0	0	0		0	0		0	-1	1	0	0	0	0	0
+	30		84	63	88	59	-1	0		0	0	0		0	0		0	-1	1	0	0	0	0	0
+	34		102 	6 	143 	43	1	0		0	0	0		0	0		0	-1	1	0	0	0	0	0
+	34		87 	54 	156 	94	1	0		0	0	0		0	0		0	-1	1	0	0	0	0	0

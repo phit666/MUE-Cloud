@@ -1,0 +1,9 @@
+//############################################
+// POWERED BY MU ENGINE                    //
+//    WWW.MUENGINE.ORG                     //
+//###########################################
+
+//[Karutan] David
+//Type	Index	Level	Dur	Skill	Luck	Option		
+	
+end							

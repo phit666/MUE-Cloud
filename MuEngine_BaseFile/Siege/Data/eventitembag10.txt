@@ -1,0 +1,72 @@
+//==============================================
+//本文件桥石京QQ:19892965整理。
+//活力七彩网络www.7clife.com 烟台娱乐第一站
+//定做各种私服服务端,网页系统,企业建站,影视音乐系统制作联系QQ:19892965
+//==============================================
+//+3黄金宝箱 eventitembag10.txt
+//种类 序号 追加 技能 卓越 未知 
+4 4 7 0 0 0  //Tiger Bow
+3 8 7 0 0 0  //Great Scythe
+5 5 7 0 0 0  //Legendary Staff
+7 9 7 0 0 0  //Plate Helm
+8 9 7 0 0 0  //Plate Armor
+9 9 7 0 0 0  //Plate Pants
+10 9 7 0 0 0  //Plate Gloves
+11 9 7 0 0 0  //Plate Boots
+7 13 7 0 0 0  //Spirit Helm
+8 13 7 0 0 0  //Spirit Armor
+9 13 7 0 0 0  //Spirit Pants
+10 13 7 0 0 0 //Spirit Gloves
+11 13 7 0 0 0 //Spirit Boots
+7 7 7 0 0 0  //Sphinx Helm
+8 7 7 0 0 0  //Sphinx Armor
+9 7 7 0 0 0  //Sphinx Pants
+10 7 7 0 0 0  //Sphinx Gloves
+11 7 7 0 0 0  //Sphinx Boots
+0 12 7 0 0 0  //Helical Sword
+1 8 7 0 0 0  //Crescent Axe
+7 6 0 0  1 0 //Scale Helm
+8 6 0 0  1 0 //Scale Armor
+9 6 0 0  1 0 //Scale Pants
+10 6 0 0 1 0 //Scale Gloves
+11 6 0 0  1 0 //Scale Boots
+7 8 0 0  1 0 //Brass Helm
+8 8 0 0  1 0 //Brass Armor
+9 8 0 0  1 0 //Brass Pants
+10 8 0  0 1 0 //Brass Gloves
+11 8 0  0 1 0 //Brass Boots
+7 12 0  0 1 0 //Wind Helm
+8 12 0  0 1 0 //Wind Armor
+9 12 0  0 1 0 //Wind Pants
+10 12 0  0 1 0 //Wind Gloves
+11 12 0  0 1 0 //Wind Boots
+7 4 0  0 1 0 //Bone Helm
+8 4 0  0 1 0 //Bone Armor
+9 4 0  0 1 0 //Bone Pants
+10 4 0  0 1 0 //Bone Gloves
+11 4 0  0 1 0 //Bone Boots
+2 8 0  0 1 0 //Skeleton Mace
+1 4 0  0 1 0 //Fairy Axe
+1 5 0  0 1 0 //Battle Axe
+1 6 0  0 1 0 //Nikkea Axe
+0 6 0  0 1 0 //Gladius
+0 7 0  0 1 0 //Falchion
+0 8 0  0 1 0 //Serpent Borg
+0 9 0  0 1 0 //Salamander
+5 3 0  0 1 0 //Lightning Staff
+5 4 0  0 1 0 //Gorgon Staff
+4 3 0  0 1 0 //Battle Bow
+4 12 0  0 1 0 //Serpent Crossbow
+3 4 0  0 1 0 //Serpent Spear
+3 5 0  0 1 0 //Double Halberd
+3 6 0  0 1 0 //Halberd
+13 8 1  0 1 0 //Ring of Ice
+13 9 1  0 1 0 //Ring of Poison
+13 12 1  0 1 0 //Lightning Pendant
+13 13 1  0 1 0 //Fire Pendant
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+// Character Initial Item(s) Item Bag - Max 100 Lines
+// Flag1 : 1 (seals and scrolls) / 2 - (set Exc as specific exc option(s)) / 3 - set Exc to Max Exc option (random exc and number of options)
+// Class : -1 - for all class / specific value below to specify character class
+//  CLASS_WIZARD = 0x0,
+//  CLASS_KNIGHT = 0x1,
+//  CLASS_ELF = 0x2,
+//  CLASS_MAGUMSA = 0x3,
+//  CLASS_DARKLORD = 0x4,
+//  CLASS_SUMMONER = 0x5,
+//  CLASS_RAGE = 0x6,
+//  CLASS_GROWLANCER = 0x7,
+// Flag2 : Item index (incrementing ID per class)
+/-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|	Type	Index	Level	Luck	Skill	Option	Exc	Flag1	Expiry(days)	Sock1	Sock2	Sock3	Sock4	Sock5	JOH	Ancient		Class	Flag2
+/-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	13	44	0	0	0	0	0	1		7	255	255	255	255	255	0	0		-1	0
+	13	80	0	0	0	0	0	0		7	255	255	255	255	255	0	0		-1	0
+	12	133	0	0	0	0	0	0		7	255	255	255	255	255	0	0		0	1
+	12	134	0	0	0	0	0	0		7	255	255	255	255	255	0	0		1	1
+	12	132	0	0	0	0	0	0		7	255	255	255	255	255	0	0		2	1
+	12	133	0	0	0	0	0	0		7	255	255	255	255	255	0	0		3	1
+	12	130	0	0	0	0	0	0		7	255	255	255	255	255	0	0		4	1
+	12	131	0	0	0	0	0	0		7	255	255	255	255	255	0	0		5	1
+	12	135	0	0	0	0	0	0		7	255	255	255	255	255	0	0		6	1

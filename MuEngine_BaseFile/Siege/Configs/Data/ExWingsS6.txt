@@ -1,0 +1,9 @@
+/--------------------------------------------------------------------------------------------------------------------------------------------------
+|	iGroup	iIndex	BaseDamageRate	BaseAbsorbRate	IgnoreRate	ReflectRate	RecLifeManaRate	DoubleDamageRate
+/--------------------------------------------------------------------------------------------------------------------------------------------------
+	12	262	21		13		3		3		5		0	// Cloak of Death
+	12	263	33		30		3		3		5		0	// Wings of Chaos
+	12	264	35		29		3		3		5		0	// Wings of Magic
+	12	265	35		29		3		3		5		0	// Wings of Fire
+	12	266	39		39		5		5		5		0	// Wings of Conqueror
+	12	267	39		39		4		4		4		4	// Wings of Angel and Devil

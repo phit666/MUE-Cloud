@@ -1,0 +1,78 @@
+////////////////////////////////////////////////// //////////////////////////////////////
+// ExcellentCommonOption
+// [Create file] 2012-05-21
+// [ Modified Date ] 2014-11-18 01:53 PM
+// [Editor] Hong Seung-wook
+// [Version] 0.0.0.4
+// [Modifications] Add mastery equipment excellent option
+// [Reference] Server, client script
+////////////////////////////////////////////////// //////////////////////////////////////
+// Among the weapon and necklace options, the attack power increase and the magic increase option use the same index, so in the ItemKind B column of the Item.
+// The client is hard-coded so that the option tooltip is output by increasing attack power in case of an attack necklace, or increase in magic power in case of a magic necklace
+// ItemKind = the category column of the item. / -1 = None / 0 = Others / 1 = Weapons / 2 = Necklaces / 3 = Armor / 4 = Rings / 5 = Pets / 6 = Wings & Cloaks / 7 = Buffs / 8 = Elements / 9 = Jewelry / 10 = Skills / 14 = Mastery Equipment Only (Weapon, Necklace) / 15 = Mastery Equipment Only (Armor, Ring)
+// When Operator = 100, Value is the formula index of FormulaData.
+//==================================================================================================================================																
+// ItemKind A-1 ItemKind A-2 ItemKind A-3 ItemCategory Index Name Operator Value TextType Other Chance Attack Defense Life Mana Skill	
+1	2	14	-1	0	"Excellent damage chance %d%% increase"	2	10	0	0	1	0	0	0	0	0	
+1	2	-1	-1	1	"%s increase by %d per level 20"	3	1	1	0	0	1	0	0	0	0	// Attack power (Magic) increases by 1 per level 20 option
+1	2	-1	-1	2	"%s %d%% increase"	2	2	1	0	0	1	0	0	0	0	// Attack (Magic) 2% increase option
+1	2	14	-1	3	"Attack (magic) speed %d increase"	1	7	0	0	0	2	0	0	0	0	
+1	2	14	-1	4	"gain (life/%d) when a monster is killed"	4	8	0	0	0	0	0	1	0	0	
+1	2	14	-1	5	"Gain (mana/%d) when killing a monster"	5	8	0	0	0	0	0	0	1	0	
+// Add mastery equipment option (weapon, necklace)																
+14	-1	-1	8	6	"%s %.1f increase per level 20"	100	0	2	0	0	1	0	0	0	0	// Attack power (Magic) %d increase per level 20 option
+14	-1	-1	8	7	"%s %d increase"		100	1	1	0	0	1	0	0	0	0	// Attack (Magic) %d increase option
+// Add mastery bonus (Weapons)
+// ItemKind A-1	ItemKind A-2	ItemKind A-3	OptionNumber	Index	Name	Operator	Value	TextType	Other Ignore Defense Life 	Mana Skill
+14	-1	-1	0	1	"Increases all stats +%d"	1	10	0	0	0	0	0	0	0	0
+14	-1	-1	0	2	"Increases all stats +%d"	1	25	0	0	0	0	0	0	0	0
+14	-1	-1	0	3	"Increases all stats +%d"	1	40	0	0	0	0	0	0	0	0
+// ItemKind A-1 ItemKind A-2 ItemKind A-3 Index Name Operator Value TextType Other Chance Attack Defense Life Mana Skill
+3	4	-1	-1	0	"%d%% max life"	2	4	0	0	0	0	0	2	0	0	
+3	4	-1	-1	1	"%d%% max mana"	2	4	0	0	0	0	0	0	2	0	
+3	4	-1	-1	2	"Damage %d%% reduction"	2	4	0	0	0	0	1	0	0	0	
+3	4	-1	-1	3	"Damage %d%% Reflection"	2	5	0	0	0	3	0	0	0	0	
+3	4	-1	-1	4	"Increase defense success rate by %d%%"	2	10	0	0	0	0	2	0	0	0	
+3	4	-1	-1	5	"%d%% gain when killing monsters"	2	30	0	1	0	0	0	0	0	0	
+// Add Mastery Equipment Options (Armor, Ring), Season 12															
+//15	18	-1	-1	3	"Damage %d%% Reflection"	2	5	0	0	0	3	0	0	0	0	
+//15	18	-1	-1	4	"Increase defense success rate by %d%%"	2	10	0	0	0	0	2	0	0	0	
+//15	18	-1	-1	6	"Increase max life by %d"	100	2	0	0	0	0	0	2	0	0	
+//15	18	-1	-1	7	"Max mana %d increase"	100	3	0	0	0	0	0	0	2	0	
+//15	18	-1	-1	8	"Damage %d reduction"	100	4	0	0	0	0	1	0	0	0	
+//15	18	-1	-1	9	"%d%% gain from killing monsters"	100	5	0	1	0	0	0	0	0	0
+// Add mastery bonus (Armors)
+15	18	-1	0	1	"Damage decrease +%d"	1	25	0	0	0	0	0	0	0	0
+15	18	-1	0	2	"Damage decrease +%d"	1	50	0	0	0	0	0	0	0	0
+15	18	-1	0	3	"Damage decrease +%d"	1	75	0	0	0	0	0	0	0	0
+// Mastery Armors, Season 13 up
+15	18	-1	-1	3	"Reflect DMG +5%"	1	5	0	0	0	0	0	0	0	0
+15	18	-1	-1	4	"DEF Rate +10%"	1	10	0	0	0	0	0	0	0	0
+15	18	-1	-1	6	"HP +%d"	1	165	0	0	0	0	0	0	0	0
+15	18	-1	-1	7	"Mana +%d"	1	165	0	0	0	0	0	0	0	0
+15	18	-1	-1	8	"Decrease Damage by %d"	1	45	0	0	0	0	0	0	0	0
+15	18	-1	-1	9	"Zen dropped from monsters +42%"	1	42	0	0	0	0	0	0	0	0
+18	-1	-1	1	10	"Base DEF +1.5 per 20 Char Levels"	1	150	0	0	0	0	0	0	0	0
+end																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																

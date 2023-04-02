@@ -1,0 +1,277 @@
+/////////////////////////////////////////////////////////////////////////////////////////											
+//	[Text Ver]	0.0.1.5									
+//	[작업자]	사재일									
+//	[작업일]	2013-12-07 11:48									
+//	[작업 내용]	엘린추가									
+/////////////////////////////////////////////////////////////////////////////////////////											
+
+
+											
+// NPC											
+//Index	MapIndex	NpcIndex	X위치	Y위치	tag	visible	NAME				
+0											
+//로랜시장											
+0	79	719	186	93	2	1	"Archangel's Spirit"				
+1	79	720	221	95	2	1	"Charon"				
+2	79	721	234	30	2	1	"Jernit the Assistant"				
+3	79	723	168	57	2	1	"Rugard"				
+4	79	722	188	21	2	1	"Mirage"				
+5	79	547	209	75	2	1	"Julia"				
+6	79	725	217	62	2	1	"Priest James"				
+//로랜시아											
+0	0	226	122	110	2	1	"Trainer"				
+1	0	230	62	130	4	1	"Wandering Merchant Alex"				
+2	0	250	183	137	4	1	"Wandering Merchant"				
+3	0	253	127	86	4	1	"Potion Girl Amy"				
+4	0	251	116	141	3	1	"Hanzo the Blacksmith"				
+5	0	255	123	135	4	1	"Lumen the Barmaid"				
+6	0	254	118	113	4	1	"Pasi the Mage"				
+7	0	547	139	138	2	1	"Market Union Member Julia"				
+8	0	240	146	110	5	1	"Baz The Vault Keeper"				
+9	0	257	96	129	1	1	"Shadow Phantom Soldier"				
+10	0	257	132	165	1	1	"Shadow Phantom Soldier"				
+11	0	257	132	90	1	1	"Shadow Phantom Soldier"				
+12	0	257	170	129	1	1	"Shadow Phantom Soldier"				
+13	0	543	144	127	2	1	"Gens Duprian Steward"				
+//14	0	375			2	1	"카오스카드마스터"				
+15	0	240	147	145	5	1	"Baz The Vault Keeper"				
+16	0	584	114	132	2	1	"Sir Lesnar"				
+//17	0	568	0	0	2	2	"Wandering Merchant Zyro"				
+18	0	229	137	87	2	2	"Marlon"				
+19	0	231	124	145	2	2	"Thompson"				
+20	0	479	131	134	2	1	"Doorkeeper Titus"				
+21	0	236	175	120	2	1	"Golden Archer"	
+22	0	669	139	135	2	1	"Ellin"
+// 데비아스											
+0	2	233	209	30	2	1	"Messenger of Archangel"				
+1	2	235	219	9	2	1	"Sebina the Priest"				
+2	2	244	226	25	4	1	"Caren the Barmaid"				
+3	2	245	225	41	2	1	"Wizard Izabel"				
+4	2	246	186	47	3	1	"Weapons Merchant Zienna"				
+5	2	241	215	45	2	1	"Royal Guard Captain Lorence"				
+6	2	240	218	63	5	1	"Baz The Vault Keeper"				
+7	2	257	219	73	1	1	"Shadow Phantom Soldier"				
+8	2	257	172	44	1	1	"Shadow Phantom Soldier"				
+//9	2	522	229	221	2	1	"Jerint the Assistant"				
+10	2	379	32	31	4	1	"Natasha Firecracker Merchant"				
+11	2	566	204	61	2	1	"Mercenary Guild Manager Tercia"				
+12	2	584	240	53	2	1	"Sir Lesnar"				
+//13	2	568	0	0	2	2	"Wandering Merchant Zyro"				
+14	2	229	183	30	2	2	"Marlon"				
+15	2	235	183	32	2	1	"Sebina the Priest"				
+16	2	479	226	66	2	1	"Doorkeeper Titus"				
+17	2	478	192	13	2	1	"Delgado"				
+// 노리아											
+0	3	237	171	105	2	1	"Charon"				
+1	3	242	173	125	4	1	"Elf Lala"				
+2	3	243	195	124	3	1	"Eo the Craftsman"				
+3	3	240	172	96	5	1	"Baz The Vault Keeper"				
+4	3	238	180	103	2	1	"Chaos Goblin"				
+5	3	257	167	117	1	1	"Shadow Phantom Soldier"				
+6	3	257	166	85	1	1	"Shadow Phantom Soldier"				
+7	3	257	201	129	1	1	"Shadow Phantom Soldier"				
+8	3	544	167	100	2	1	"Gens Vanert Steward"				
+9	3	580	196	113	2	1	"Captain Slough"				
+10	3	584	183	126	2	1	"Sir Lesnar"				
+//11	3	568	0	0	2	2	"Wandering Merchant Zyro"				
+12	3	229	169	89	2	2	"Marlon"				
+//13	3	450	179	126	2	1	"벚꽃정령"				
+// 아이다											
+0	33	369	78	13	2	1	"Osbourne"				
+1	33	370	86	13	2	1	"Jerridon"				
+// 크라이울프 1차											
+//0	34	406	228	48	2	1	"Apostle Devin"				
+//1	34	407	62	239	2	1	"Werewolf Quarel"				
+//2	34	226	135	47	2	1	"Trainer"				
+//3	34	248	99	40	3	1	"Wandering Merchant Martin"				
+//4	34	256	96	25	2	1	"Lahap"				
+//5	34	251	145	14	3	1	"Hanzo the Blacksmith"				
+//6	34	240	113	56	5	1	"Baz The Vault Keeper"				
+//7	34	224	118	11	2	1	"근위병"				
+// 발가스병영											
+//0	41	408	119	168	2	1	"Gatekeeper"				
+// 엘베란드											
+0	51	256	37	241	2	1	"Lahap"				
+1	51	415	44	229	4	1	"Silvia"				
+2	51	416	29	236	3	1	"Rhea"				
+3	51	417	36	219	4	1	"Marce"				
+4	51	257	43	191	1	1	"Shadow Phantom Soldier"				
+5	51	257	57	232	1	1	"Shadow Phantom Soldier"				
+6	51	257	73	220	1	1	"Shadow Phantom Soldier"				
+7	51	240	50	229	5	1	"Baz The Vault Keeper"				
+//8	51	385	55	243	2	1	"미라쥬"				
+9	51	452	46	243	2	1	"Seed Master"				
+10	51	453	50	243	2	1	"Seed Researcher"				
+11	51	492	22	225	2	1	"Moss"				
+//12	51	540			2	1	"루가드"				
+//13	51	568	55	199	2	2	"Wandering Merchant Zyro"				
+14	51	579	20	214	2	1	"David"		
+//15	51	682	24	229	2	1	"모니카"
+16	51	725	32	239	2	1	"Priest James"				
+// 불카누스											
+//0	63	479	122	135	2	1	"Doorkeeper Titus"				
+// 칼루탄1 (칼루탄 남부)											
+0	80	577	121	102	4	1	"Leina the Merchant"				
+1	80	578	117	126	3	1	"Weapons Merchant Bolo"				
+2	80	240	123	132	5	1	"Baz The Vault Keeper"				
+3	80	240	122	96	5	1	"Baz The Vault Keeper"				
+4	80	240	157	127	5	1	"Baz The Vault Keeper"				
+// 아케론											
+0	91	581	29	210	2	1	"Deruvish"				
+1	91	582	38	216	2	1	"Adniel"				
+2	91	583	52	195	4	1	"Jin"				
+//3	91				3	1	"무기 상인 드레"				
+4	91	240	50	184	5	1	"Baz The Vault Keeper"				
+0	92	604	52	195	4	1	"Jin"				
+// 아틀란스											
+0	7	229	17	25	2	2	"Marlon"				
+// 칼리마1											
+0	24	259	7	19	4	1	"Oracle Layla"				
+// 칼리마2											
+0	25	259	7	19	4	1	"Oracle Layla"				
+// 칼리마3											
+0	26	259	7	19	4	1	"Oracle Layla"				
+// 칼리마4											
+0	27	259	7	19	4	1	"Oracle Layla"				
+// 칼리마5											
+0	28	259	7	19	4	1	"Oracle Layla"				
+// 칼리마6											
+0	29	259	7	19	4	1	"Oracle Layla"				
+1	29	567	10	28	2	1	"Priestess Veina"				
+// 칼리마7											
+0	36	259	7	19	4	1	"Oracle Layla"				
+// ARCA BATTLE				
+0	92	627	89	41	2	2	"Alkmar Fire Obelisk"				
+1	92	628	89	41	2	2	"Alkmar Water Obelisk"				
+2	92	629	89	41	2	2	"Alkmar Earth Obelisk"				
+3	92	630	89	41	2	2	"Alkmar Wind Obelisk"				
+4	92	631	89	41	2	2	"Alkmar Darkeness Obelisk"				
+5	92	627	188	101	2	2	"Ubaid Fire Obelisk"				
+6	92	628	188	101	2	2	"Ubaid Water Obelisk"				
+7	92	629	188	101	2	2	"Ubaid Earth Obelisk"				
+8	92	630	188	101	2	2	"Ubaid Wind Obelisk"				
+9	92	631	188	101	2	2	"Ubaid Darkness Obelisk"				
+//
+10	92	603	89	58	2	2	"Alkmar Barrier 1"				
+11	92	603	84	30	2	2	"Alkmar Barrier 2"				
+12	92	603	104	36	2	2	"Alkmar Barrier 3"				
+//
+13	92	603	175	102	2	2	"Ubaid Barrier 1"				
+14	92	603	192	110	2	2	"Ubaid Barrier 2"				
+15	92	603	200	96	2	2	"Ubaid Barrier 3"				
+//
+0	96	627	162	54	2	2	"Debenter Fire Obelisk"				
+1	96	628	162	54	2	2	"Debenter Water Obelisk"				
+2	96	629	162	54	2	2	"Debenter Earth Obelisk"				
+3	96	630	162	54	2	2	"Debenter Wind Obelisk"				
+4	96	631	162	54	2	2	"Debenter Darkness Obelisk"				
+//
+5	96	603	154	60	2	2	"Debenter Barrier 1"				
+6	96	603	162	45	2	2	"Debenter Barrier 2"				
+7	96	603	165	67	2	2	"Debenter Barrier 3"	
+end											
+// 포탈											
+//Index	MapIndex	X위치	Y위치	NAME							
+1											
+//로랜시아											
+0	0	121	232	"Dungeon Entrance"							
+1	0	1	38	"Devias Entrance"							
+2	0	216	248	"Noria Entrance"							
+3	0	242	15	"Valley of Loren Entrance"
+//던전 1층											
+0	1	108	249	"Lorencia Entrance"							
+1	1	238	150	"Dungeon Level 2 Entrance"							
+//던전2층											
+2	1	232	128	"Dungeon Level 1 Entrance"							
+3	1	1	18	"Dungeon Level 3 West Entrance"							
+4	1	5	35	"Dungeon Level 3 East Entrance"							
+//던전3층											
+5	1	1	85	"Dungeon Level 3 East Entrance"							
+6	1	29	127	"Dungeon Level 2 East Entrance"	
+7	1	158	46	"Vulcanus Entrance"							
+//데비아스											
+0	2	244	34	"Lorencia Entrance"							
+1	2	162	248	"Elveland Entrance"							
+2	2	0	250	"Lost Tower Entrance"							
+3	2	51	92	"La Cleon Entrance"
+//노리아	//노리아										
+0	3	151	2	"Lorencia Entrance"							
+1	3	222	29	"Aida Entrance"							
+2	3	242	241	"Atlans Entrance"							
+//로스트타워1층											
+0	4	164	0	"Devias Entrance"							
+1	4	190	5	"Lost Tower Level 2 Entrance"							
+//로스트타워2층											
+2	4	165	165	"Lost Tower Level 3 Entrance"							
+//로스트타워3층											
+3	4	133	246	"Lost Tower Level 4 Entrance"							
+//로스트타워4층											
+4	4	133	136	"Lost Tower Level 5 Entrance"							
+//로스트타워5층											
+5	4	129	14	"Lost Tower Level 6 Entrance"							
+//로스트타워6층											
+6	4	4	7	"Lost Tower Level 7 Entrance"							
+//로스트타워7층											
+7	4	16	250	"Icarus Entrance"							
+//아틀란스											
+0	7	8	8	"Noria Entrance"							
+1	7	9	18	"Elveland Entrance"							
+2	7	10	228	"Tarkan Entrance"							
+//타르칸											
+0	8	250	40	"Atlans Entrance"							
+1	8	3	199	"Kanturu Ruins Entrance"
+//이카루스											
+0	10	13	8	"Lost Tower Entrance"							
+//시련의땅											
+0	31	60	8	"Valley of Loren Entrance"							
+//아이다											
+0	33	72	10	"Noria Entrance"							
+1	33	238	165	"Kalutan Entrance"							
+//크라이울프 1차											
+0	34	238	42	"Valley of Loren Entrance"							
+//칸투르폐허											
+0	37	16	222	"Tarkan Entrance"							
+1	37	89	91	"Kanturu Relics Entrance"							
+//칸투르유적											
+0	38	66	105	"Kanturu Ruins Entrance"							
+1	38	141	186	"Gateway Machine"							
+//엘베란드											
+0	51	248	149	"Atlans Entrance"							
+1	51	19	27	"Devias Entrance"							
+//평온의늪_안전지대											
+0	56	139	125	"Swamp of Peace Entrance (1)"							
+1	56	124	109	"Swamp of Peace Entrance (2)"							
+2	56	140	95	"Swamp of Peace Entrance (3)"							
+3	56	150	109	"Swamp of Peace Entrance (4)"							
+//평온의늪_사냥터											
+4	56	185	188	"Safe Zone Entrance"		//1번 사냥터					
+5	56	56	177	"Safe Zone Entrance"		//2번 사냥터					
+6	56	68	52	"Safe Zone Entrance"		//3번 사냥터					
+7	56	197	13	"Safe Zone Entrance"		//4번 사냥터					
+//라클리온											
+0	57	224	214	"Devias Entrance"							
+1	57	169	22	"Hatchery Entrance"							
+2	57	210	226	"Entrance to Lake Nixie"
+//칼루탄1(남부)											
+0	80	115	45	"Aida Entrance"							
+1	80	187	212	"Kalutan North Entrance"							
+//칼루탄2(북부)											
+0	81	162	9	"Kalutan South Entrance"							
+//아케론											
+0	91	28	169	"Alkmar Entrance"							
+1	91	80	205	"Ubaid Entrance"							
+2	91	52	162	"Debenter Entrance"							
+//3	91	64	220	"우르크산 입구"							
+4	91	115	168	"Acheron Village Entrance"							
+5	91	147	202	"Acheron Village Entrance"							
+//6	91	146	206	"Acheron Village Entrance"
+// ARCA BATTLE
+0	92	28	169	"Alkmar Entrance"							
+1	92	80	205	"Ubaid Entrance"							
+2	92	52	162	"Debenter Entrance"
+4	92	115	168	"Safe Zone Entrance"							
+5	92	147	202	"Safe Zone Entrance"																	
+//데벤테르											
+0	95	17	107	"Acheron Village Entrance"
+0	96	17	107	"Safe Zone Entrance"
+end											

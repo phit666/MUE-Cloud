@@ -1,0 +1,36 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+//	EventSettings
+//		0: Red Dragon Invasion
+//		1: Skeleton Invasion
+//		2: Golden Monster Invasion
+//		3: White Wizard Invasion
+//      4: XMas Attack Invasion
+// ---------------------------------------------
+// Type	StartHour    StartMinute
+0
+//0	4	05
+//1	4	07
+//2	4	09
+//3	4	11
+
+//0	10	05
+//1	10	07
+//2	10	09
+//3	10	11
+
+
+//0	16	05
+//1	16	07
+//2	16	09
+//3	16	11
+
+//0	22	05
+//1	22	07
+//2	22	09
+//3	22	11
+end
+
+

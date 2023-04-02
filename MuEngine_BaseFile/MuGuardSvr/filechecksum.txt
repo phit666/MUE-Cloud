@@ -1,0 +1,12 @@
+0
+// file path - max 49 characters
+// md5 value
+//"Main.dll:1"	"a7d47671dad00b54351c19f4c0c5f85b"
+//"Data\Player\player.bmd:3"	"a2957d5e41c2b4d6e569ddb2f401cdd7"
+//"Data\Local\item.bmd:3"	"907d5d7af22c6b71d8c2b1434cb4a22f"
+//"Data\Local\mix.bmd:3"	"ad8233a10ba5f2e8876a5d7a0f362bbf"
+//"main.exe:1" "2c2ddcae8f6d10f849ccfbacab8bba9f"
+//"game.bin:1" "34a716f526e63ba31c773f2ed5f00442"
+//"Data\Lang.mpr:3"	"fba465181ff541b9240d9fcd1af90d7a"
+//"Data\Local\ruudshopviewinfo.bmd:3"	"7a8b99e57832e75f2f959a89ba71a87f"
+end

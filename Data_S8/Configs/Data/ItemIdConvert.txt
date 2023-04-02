@@ -1,0 +1,9 @@
+//	This config will replace old-id with new-id if the item Serial1 is below or equal to ItemCount and Serial2 is below or equal to ItemCount2
+//
+//	ItemCount - column value in gameserverinfo table, if value is 1000 then you need to put 1000
+//	ItemCount2 - column value+1 in gameerverinfo table, if value is 1 then you need to put 2
+//	Old-Type & Old-Index - Item id combination to be replaced
+//	New-Type & New-Index - New item id that will replace Old-Type & Old-Index
+/-------------------------------------------------------------------------------------------------------/
+|	ItemCount	ItemCount2	ReqOld-Type	ReqOld-Index	New-Type	New-Index	NewDur	ReqExcOpt	|
+/-------------------------------------------------------------------------------------------------------/

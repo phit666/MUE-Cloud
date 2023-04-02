@@ -1,0 +1,64 @@
+//  CLASS_WIZARD = 0
+//  CLASS_KNIGHT = 1
+//  CLASS_ELF = 2
+//  CLASS_MAGUMSA = 3
+//  CLASS_DARKLORD = 4
+//  CLASS_SUMMONER = 5
+//  CLASS_RAGE = 6
+//  CLASS_GROWLANCER = 7
+// Monster Class = Monster ID (from monster.txt) + 16
+/----------------------------------------------------------------
+|	Class	vs	Class	DamageRate	DefenceRate
+/----------------------------------------------------------------
+//	0		1	120		100	// wizard increase damage by 20% against darklord, darklord defence has no change.
+//	2		4	100		90	// elf attack has no increase to darkknight, darkknight defence is 10% weaker against elf attack
+//	6		291	80		100	// ragefighter has 20% lesser damage to Kundun (275+16=291)
+//	311		5	100		150	// erohim monster (295+16=311) has 50% more defence from summoner attack					
+	-1		291	1		100	// kundun
+	-1		311	1		100	// erohim
+	-1		475	1		100	// selupan
+	-1		577	1		100	// medusa
+	291		-1	200		100	// kundun
+	311		-1	180		100	// erohim
+	475		-1	150		100	// selupan
+	577		-1	150		100	// medusa
+//
+	-1		671	10		100	// colosus erohim
+	-1		672	10		100	// colosus erohim
+	-1		673	10		100	// colosus kundun
+	-1		98	40		100	// Golden Tantallos
+	-1		518	40		100	// Golden Rabbit
+	-1		509	40		100	// Golden Dark Knight
+	-1		510	40		100	// Golden Devil
+	-1		511	40		100	// Golden Golem
+	-1		512	40		100	// Golden Crust
+	-1		513	40		100	// Golden Satyrus
+	-1		514	40		100	// Golden Twin Tale
+	-1		515	40		100	// Golden Iron Knight
+	-1		516	40		100	// Golden Napin
+	-1		517	40		100	// Golden Great Dragon
+//
+	-1		762	10		100	// nixie
+	-1		749	30		100	// ferea general
+	-1		750	10		100	// ferea lord
+	-1		752	60		100	// ferea knight
+	-1		753	60		100	// ferea elf
+	-1		754	60		100	// ferea fighter
+	762		-1	200		100	// nixie
+	749		-1	150		100	// ferea general
+	750		-1	200		100	// ferea lord
+	752		-1	130		100	// ferea knight
+	753		-1	130		100	// ferea elf
+	754		-1	130		100	// ferea fighter
+	-1		751	1		100	// crystal orb
+//
+	-1		504	60		100	// Cold-blooded
+	-1		505	60		100	// Burning Lava Giant
+	-1		506	60		100	// Outrageous Giant Lava
+	-1		507	60		100	// Outrageous Giant Lava
+	-1		444	40		100	// King Orc
+	-1		445	40		100	// Orc Archer
+	-1		446	40		100	// Spirit Soldier
+	-1		447	40		100	// Spirit Beast
+	-1		448	40		100	// Spirit Knight
+	-1		449	40		100	// Spirit Sorcerer

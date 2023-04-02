@@ -1,0 +1,13 @@
+0
+// virtual machines
+"000569" //vmware1
+"000C29" //vmware2
+"005056" //vmware3
+"001C42" //parallels1
+"0003FF" //microsoft virtual pc
+"000F4B" //virtual iron 4
+"00163E" //red hat xen , oracle vm , xen source, novell xen
+"080027" //virtualbox
+// players
+"1VJ1CN732353"
+end

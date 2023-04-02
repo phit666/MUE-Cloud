@@ -1,0 +1,79 @@
+//############################################
+// POWERED BY MU ENGINE                     //
+// WWW.MUENGINE.ORG                      	//
+// Edited By: ScriptKid                    	//
+//###########################################
+
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Box Of Kundun +3 Drop Settings                                               早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭					
+1
+//	EventName	                  DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate											
+	"Box Of Kundun +3"	0	0	                  0	0	0	                  100	                                                      500											
+end
+// | Type | Index | MinLevel | MaxLevel | Skill | Luck | Option | Excellent |	
+
+10
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+10000	
+0	16	0	0	50	50	50	100	0	0	0	//Sword of Destruction
+0	17	0	0	50	50	50	100	0	0	0	//Dark Breaker
+0	18	0	0	50	50	50	100	0	0	0	//Thunder Blade
+2	4	0	0	50	50	50	100	0	0	0	//Crystal Morning Star
+2	5	0	0	50	50	50	100	0	0	0	//Crystal Sword
+2	7	0	0	50	50	50	100	0	0	0	//Elemental Mace
+3	9	0	0	50	50	50	100	0	0	0	//Bill of Balrog
+3	10	0	0	50	50	50	100	0	0	0	//Dragon Spear
+4	16	0	0	50	50	50	100	0	0	0	//Saint Crossbow
+4	17	0	0	50	50	50	100	0	0	0	//Celestial Bow
+4	19	0	0	50	50	50	100	0	0	0	//Great Reign Crossbow
+4	20	0	0	50	50	50	100	0	0	0	//Arrow Viper Bow
+5	5	0	0	50	50	50	100	0	0	0	//Legendary Staff
+5	6	0	0	50	50	50	100	0	0	0	//Staff of Destruction
+5	8	0	0	50	50	50	100	0	0	0	//Staff of Destruction
+5	9	0	0	50	50	50	100	0	0	0	//Dragon Soul Staff
+6	13	0	0	50	50	50	100	0	0	0	//Chaos Dragon Shield
+6	14	0	0	50	50	50	100	0	0	0	//Legendary Shield
+6	15	0	0	50	50	50	100	0	0	0	//Grand Soul Shield
+7	1	0	0	50	50	50	100	0	0	0	//Dragon Helm
+7	3	0	0	50	50	50	100	0	0	0	//Legendary Helm
+7	14	0	0	50	50	50	100	0	0	0	//Guardian Helm
+0	0	0	0	50	50	50	100	0	0	0	//Kris
+7	16	0	0	50	50	50	100	0	0	0	//Black Dragon Helm
+7	17	0	0	50	50	50	100	0	0	0	//Dark Phoenix Helm
+7	19	0	0	50	50	50	100	0	0	0	//Divine Helm
+7	18	0	0	50	50	50	100	0	0	0	//Grand Soul Helm
+8	1	0	0	50	50	50	100	0	0	0	//Dragon Armor
+8	3	0	0	50	50	50	100	0	0	0	//Legendary Armor
+8	14	0	0	50	50	50	100	0	0	0	//Guardian Armor
+8	15	0	0	50	50	50	100	0	0	0	//Storm Crow Armor
+8	16	0	0	50	50	50	100	0	0	0	//Black Dragon Armor
+8	17	0	0	50	50	50	100	0	0	0	//Dark Phoenix Armor
+8	18	0	0	50	50	50	100	0	0	0	//Grand Soul Armor
+8	19	0	0	50	50	50	100	0	0	0	//Divine Armor
+9	1	0	0	50	50	50	100	0	0	0	//Dragon Pants
+9	3	0	0	50	50	50	100	0	0	0	//Legendary Pants
+9	14	0	0	50	50	50	100	0	0	0	//Guardian Pants
+9	15	0	0	50	50	50	100	0	0	0	//Storm Crow Pants
+9	16	0	0	50	50	50	100	0	0	0	//Black Dragon Pants
+9	17	0	0	50	50	50	100	0	0	0	//Dark Phoenix Pants
+9	18	0	0	50	50	50	100	0	0	0	//Grand Soul Pants
+9	19	0	0	50	50	50	100	0	0	0	//Divine Pants
+10	1	0	0	50	50	50	100	0	0	0	//Dragon Gloves
+10	3	0	0	50	50	50	100	0	0	0	//Legendary Gloves
+10	14	0	0	50	50	50	100	0	0	0	//Guardian Gloves
+10	15	0	0	50	50	50	100	0	0	0	//Storm Crow Gloves
+10	16	0	0	50	50	50	100	0	0	0	//Black Dragon Gloves
+10	17	0	0	50	50	50	100	0	0	0	//Dark Phoenix Gloves
+10	18	0	0	50	50	50	100	0	0	0	//Grand Soul Gloves
+10	19	0	0	50	50	50	100	0	0	0	//Divine Gloves
+11	1	0	0	50	50	50	100	0	0	0	//Dragon Boots
+11	3	0	0	50	50	50	100	0	0	0	//Legendary Boots
+11	14	0	0	50	50	50	100	0	0	0	//Guardian Boots
+11	15	0	0	50	50	50	100	0	0	0	//Storm Crow Boots
+11	16	0	0	50	50	50	100	0	0	0	//Black Dragon Boots
+11	17	0	0	50	50	50	100	0	0	0	//Dark Phoenix Boots
+11	18	0	0	50	50	50	100	0	0	0	//Grand Soul Boots
+11	19	0	0	50	50	50	100	0	0	0	//Divine Boots
+end
+end

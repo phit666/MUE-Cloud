@@ -1,0 +1,49 @@
+//1.로랜시아
+// type
+0 0 6 0 0 1 //Kris+7+4
+0 2 6 0 0 2 //Rapier+7+8
+0 4 6 0 0 3 //Scimitar+7+12
+0 3 6 0 0 1 //Katache+7+4
+1 1 6 0 0 2 //Hand Axe+7+8
+1 2 6 0 0 3 //Double Axe+7+12
+2 0 6 0 0 1 //Mace+7+4
+2 1 6 0 0 2 //Morning Star+7+8
+3 2 6 0 0 3 //Dragon Lance+7+12
+4 8 6 0 0 1 //Crossbow+7+4
+4 1 6 0 0 2 //Bow+7+8
+4 9 6 0 0 3 //Golden Crossbow+7+12
+5 0 6 0 0 1 //Skull Staff+7+4
+6 4 6 0 0 2 //Buckler+7+10
+6 1 6 0 0 3 //Horn Shield+7+15
+6 2 6 0 0 1 //Kite Shield+7+5
+7 5 6 0 0 2 //Leather Helm+7+8
+7 2 6 0 0 3 //Pad Helm+7+12
+7 10 6 0 0 1 //Vine Helm+7+4
+8 5 6 0 0 2 //Leather Armor+7+8
+8 2 6 0 0 3 //Pad Armor+7+12
+8 10 6 0 0 3 //Vine Armor+7+12
+9 5 6 0 0 2 //Leather Pants+7+8
+9 2 6 0 0 1 //Pad Pants+7+4
+9 10 6 0 0 3 //Vine Pants+7+12
+10 5 6 0 0 2 //Leather Gloves+7+8
+10 2 6 0 0 1 //Pad Gloves+7+4
+10 10 6 0 0 1 //Vine Gloves+7+4
+11 5 6 0 0 2 //Leather Boots+7+8
+11 2 6 0 0 3 //Pad Boots+7+12
+11 10 6 0 0 3 //Vine Boots+7+12
+
+//악세사리
+13 0 0 0 0 0
+13 1 0 0 0 0
+13 2 0 0 0 0
+13 8 0 0 0 2
+13 9 0 0 0 2
+13 12 0 0 0 2
+13 13 0 0 0 2
+
+//보석
+14 13 0 0 0 0
+14 14 0 0 0 0
+
+// 혼석
+12 15 0 0 0 0

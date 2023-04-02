@@ -1,0 +1,82 @@
+// With raiding event data of LAN canyon 
+
+// Event start su khey cyul (24:00 me)
+// hour minutes
+0
+19 35
+end
+
+// Event raiding type type
+// raiding type probability
+//-----------------------------------------------
+1
+1 100 // General raiding 
+2 0 // Special raiding (C group addition)
+end
+
+// Event progress hour raiding type, group star hour progress order
+//
+// raiding type: 1 basic raiding
+// 2 special raiding
+//group: Every each raiding type hour it comes out fixing, it drives and su it sprouts, group
+// Raiding type group appearance minute 
+//-----------------------------------------------
+2
+1 1 0
+1 2 10
+
+2 1 0
+2 2 10
+2 3 20
+end
+
+// / Each raiding type, the group star it drives and su it sprouts and type and the modification
+//
+// raiding type group it drives and and su it sprouts, type start X start Y end X end Y
+//-----------------------------------------------
+3
+1 1 300 5 60 28 132 73
+1 1 300 5 60 28 132 73
+1 1 300 5 60 28 132 73
+1 1 300 5 60 28 132 73
+1 1 300 5 60 28 132 73
+1 1 300 5 60 28 132 73
+1 1 300 5 60 28 132 73
+1 1 300 5 60 28 132 73
+1 1 300 5 60 28 132 73
+1 1 301 5 60 28 132 73
+
+1 2 301 5 60 58 132 101
+1 2 301 5 60 58 132 101
+1 2 301 5 60 58 132 101
+1 2 301 5 60 58 132 101
+1 2 301 5 60 58 132 101
+1 2 301 5 60 58 132 101
+1 2 301 5 60 58 132 101
+1 2 301 5 60 58 132 101
+1 2 301 5 60 58 132 101
+1 2 302 5 60 58 132 101
+
+2 1 302 5 60 28 132 73
+2 1 302 5 60 28 132 73
+2 1 302 5 60 28 132 73
+2 1 302 5 60 28 132 73
+2 1 302 5 60 28 132 73
+2 1 302 5 60 28 132 73
+2 1 302 5 60 28 132 73
+2 1 302 5 60 28 132 73
+2 1 302 5 60 28 132 73
+2 1 303 5 60 28 132 73
+
+2 2 303 5 60 58 132 101
+2 2 303 5 60 58 132 101
+2 2 303 5 60 58 132 101
+2 2 303 5 60 58 132 101
+2 2 303 5 60 58 132 101
+2 2 303 5 60 58 132 101
+2 2 303 5 60 58 132 101
+2 2 303 5 60 58 132 101
+2 2 303 5 60 58 132 101
+2 2 303 10 60 58 132 101
+
+end

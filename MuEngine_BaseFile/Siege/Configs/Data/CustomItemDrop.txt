@@ -1,0 +1,54 @@
+; Type		= Item type
+; Index		= Item Index
+; Map		= -1 (Drop in all map) / specific map number
+; MobID		= -1 Disregard monster ID / specific monster ID
+; MobMin	= -1 Disregard monster level / specific monster minimum level
+; MobMax	= if Mobin is greater than 0 value then MobMax value should be more than or equal MobMin value
+; IMinLvl	= Item minimum level
+; IMaxLvl	= Item max level (max value in this version is 13)
+; ISkill	= 0 / 1 - Item can have skill or no (random)
+; ILuck		= 0 / 1 - Item can have luck or no (random)
+; IOpt		= 0 - 7 (Item option: 1 = +4, 7 = +28) Max option item can have
+; IDur		= Item durability
+; IExc		= 0 - 6 Maximum excellent options an item can have
+; IAnc		= Item can be ancient
+; Rate		= 1 - 100 Item drop rate
+; Quest		= 1 to 5 - drop only during quest stages (1 scroll..5 third quest items) / -1 to drop item regardless of quest stages 
+; NOTE: Drop rule is from left to right (Type -> DropRate), let say you set an item to drop in Yeti monster and map devias and when 
+;	you added Yeti in other map then MobID option will be disregarded.
+/---------------------------------------------------------------------------------------------------------------------------------------/
+| 	Type	Index	Map	MobID	MobMin	MobMax	IMinLvl	IMaxLvl	ISkill	ILuck	IOpt	IDur	IExc	IAnc	Rate	Quest   |
+/---------------------------------------------------------------------------------------------------------------------------------------/
+// jewels
+//	12	15	-1	-1	12	47	0	0	0	0	0	0	0	0	2	0	0	0	0	0					
+	14	13	-1	-1	25	70	0	0	0	0	0	0	0	0	2	0	0	0	0	0			
+	14	14	-1	-1	30	76	0	0	0	0	0	0	0	0	2	0	0	0	0	0		
+	14	16	-1	-1	72	93	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// Jewel of Life
+	14	22	-1	-1	78	107	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// Jewel of Creation
+	14	17	-1	-1	12	93	1	6	0	0	0	0	0	0	4	0	0	0	0	0	// Devil Eye +5
+	14	18	-1	-1	12	93	1	6	0	0	0	0	0	0	4	0	0	0	0	0	// Devil Key +5
+	13	16	-1	-1	12	93	1	7	0	0	0	0	0	0	4	0	0	0	0	0	// Blood Bone
+	13	17	-1	-1	12	93	1	7	0	0	0	0	0	0	4	0	0	0	0	0	// Blood Bone			
+// LAND OF TRIALS
+	14	31	31	-1	-1	-1	0	0	0	0	0	0	0	0	2	0	0	0	0	0
+// SKILLS
+	12	16	-1	-1	70	93	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// FIRE SLASH	
+	12	17	-1	-1	70	93	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// PENETRATION		
+	12	18	-1	-1	70	93	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// ICE ARROW	
+	12	19	-1	-1	70	93	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// DEATH STAB	
+	12	22	-1	-1	102	140	0	0	0	0	0	0	0	0	3	0	0	0	0	0	// DL SKILL SUMMON
+	12	21	-1	-1	83	100	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// Fire Burst	
+	12	23	-1	-1	102	140	0	0	0	0	0	0	0	0	3	0	0	0	0	0	// Scroll of Critical Damage
+	12	24	-1	-1	83	100	0	0	0	0	0	0	0	0	3	0	0	0	0	0	// Scroll of Electric Spark
+//	13	14	-1	-1	100	108	1	1	0	0	0	0	0	0	2	0	0	0	0	0	// CREST OF MONARCH
+	12	35	34	-1	-1	-1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// Scroll Fire Scream
+	15	15	34	-1	-1	-1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// Decay
+	15	16	34	-1	-1	-1	0	0	0	0	0	0	0	0	2	0	0	0	0	0	// Ice Storm
+// SYMBOL KUNDUN
+	14	29	-1	-1	-1	-1	1	1	0	0	0	0	0	0	4	0	0	0	0	0
+	14	29	-1	-1	-1	-1	2	2	0	0	0	0	0	0	4	0	0	0	0	0
+	14	29	-1	-1	-1	-1	3	3	0	0	0	0	0	0	4	0	0	0	0	0
+	14	29	-1	-1	-1	-1	4	4	0	0	0	0	0	0	4	0	0	0	0	0
+	14	29	-1	-1	-1	-1	5	5	0	0	0	0	0	0	4	0	0	0	0	0
+	14	29	-1	-1	-1	-1	6	6	0	0	0	0	0	0	4	0	0	0	0	0
+	14	29	-1	-1	-1	-1	7	7	0	0	0	0	0	0	4	0	0	0	0	0

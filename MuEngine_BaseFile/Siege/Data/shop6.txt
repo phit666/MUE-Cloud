@@ -1,0 +1,7 @@
+//shop6 - [Deivas] Bar - [Lorencia] Bar
+14 10 0 0 0 0 0 //Teleport
+14 9 0 0 0 0 0 //Alcohol
+14 9 1 0 0 0 0 //Olive of Love
+14 20 0 0 0 0 0 //Sentimental Charm
+
+end

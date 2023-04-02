@@ -1,0 +1,39 @@
+// Items you dont want to drop from monster
+// Max 100 items
+/--------------------------------------------------
+|	iType	iIndex
+/--------------------------------------------------
+	2	6	// Chaos Dragon Axe
+	2	13	// Divine Scepter of AA
+	2	18	// Striker Scepter
+	3	11	// Brova
+	4	6	// Chaos Nature Bow
+	5	7	// Chaos Lightning Staff
+	5	10	// AA Staff
+	5	33	// Chromatic Staff
+	5	34	// Raven Stick
+	0	19	// Divine Sword of AA
+	2	13	// Divine Scepter of AA
+	4	18	// Divine Crossbow of AA
+	4	24	// Aileen Bowr
+	5	36	// Divine Stick of AA
+	0	35	// Phoenix Soul Star
+	14	83	// reset token
+	12	15	// JEWEL OF CHAOS
+	14	13	// JEWEL OF Bles
+	14	14	// JEWEL OF Soul
+	14	31	// JEWEL OF GUARDIAN
+	14	16	// JOL
+	14	22	// CREATION
+	13	14	// LOCH FEATHER
+	13	16	// Blood Bone
+	13	17	// Blood Scroll
+	14	17	// Devil Eye
+	14	18	// Devil Key
+	14	29	// Symbol of Kundun
+	13	31	// SPIRIT & RAVEN INGRI
+	12	21
+	12	22
+	12	48	// Chaotic Diseier
+	14	42
+	14	41

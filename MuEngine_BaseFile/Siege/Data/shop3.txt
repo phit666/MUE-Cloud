@@ -1,0 +1,30 @@
+// Peddler
+
+//Potions
+14 0 0 30 0 0 0 //Apple
+14 1 0 25 0 0 0 //Small vita
+14 2 0 15 0 0 0 //Medie vita
+14 3 0  5 0 0 0 //Big vita
+14 4 0 25 0 0 0 //Small mana
+14 5 0 15 0 0 0 //Medie Mana
+14 6 0  5 0 0 0 //Big Mana
+14 8 0 10 0 0 0 //Antidote
+
+
+//Items(DK)
+7 5 0 0 0 0 0 //Leather helm
+9 5 0 0 0 0 0 //Leather pants
+10 5 0 0 0 0 0 //Leather gloves
+11 5 0 0 0 0 0 //Leather boots
+8 5 0 0 0 0 0 //Leather armor
+
+6 0 0 0 0 0 0 //Roundshield
+1 0 0 0 0 0 0 //Small Axe
+0 1 0 0 0 0 0 //Shortsword
+
+1 1 0 0 0 0 0 //Hatchet
+0 0 0 0 0 0 0 //Kris
+2 0 0 0 0 0 0 //Mace
+0 2 0 0 0 0 0 //Rapier
+
+end

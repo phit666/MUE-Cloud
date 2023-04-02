@@ -1,0 +1,76 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+//旨收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旬
+//早 Kundun Boss Kalima 7 Drop Settings                                               早
+//曲收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收收旭					
+1
+//	EventName	                  DropZen	EventItemType	EventItemIndex	EventItemLevel	EventItemDropRate	ItemDropRate	ExItemDropRate											
+	"Box Of Kundun +1"	0	0	                  0	0	0	                  100	                                                      500											
+end
+// | Type | Index | MinLevel | MaxLevel | Skill | Luck | Option | Excellent |	
+10
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only
+7000
+7	29	0	0	0	30	0	0	0	0	0	// Excellent Dragon Knight Helm
+7	30	0	0	0	30	0	0	0	0	0	// Excellent Venom Helm
+7	31	0	0	0	30	0	0	0	0	0	// Excellent Sylpid Helm
+7	33	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+8	29	0	0	0	30	0	0	0	0	0	// Excellent Dragon Knight Armor
+8	30	0	0	0	30	0	0	0	0	0	// Excellent Venom Armor
+8	31	0	0	0	30	0	0	0	0	0	// Excellent Sylpid Armor
+8	32	0	0	0	30	0	0	0	0	0	// Excellent Volcano Armor
+8	33	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Armor
+9	29	0	0	0	30	0	0	0	0	0	// Excellent Dragon Knight Pants
+9	30	0	0	0	30	0	0	0	0	0	// Excellent Venom Pants
+9	31	0	0	0	30	0	0	0	0	0	// Excellent Sylpid Pants
+9	32	0	0	0	30	0	0	0	0	0	// Excellent Volcano Pants
+9	33	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Pants
+10	29	0	0	0	30	0	0	0	0	0	// Excellent Dragon Knight Gloves
+10	30	0	0	0	30	0	0	0	0	0	// Excellent Venom Gloves
+10	31	0	0	0	30	0	0	0	0	0	// Excellent Sylpid Gloves
+10	32	0	0	0	30	0	0	0	0	0	// Excellent Volcano Gloves
+10	33	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Gloves
+11	29	0	0	0	30	0	0	0	0	0	// Excellent Dragon Knight Boots
+11	30	0	0	0	30	0	0	0	0	0	// Excellent Venom Boots
+11	31	0	0	0	30	0	0	0	0	0	// Excellent Sylpid Boots
+11	32	0	0	0	30	0	0	0	0	0	// Excellent Volcano Boots
+11	33	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Boots
+
+7	43	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+8	43	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+9	43	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+10	43	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+11	43	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+
+7	73	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+8	73	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+9	73	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+11	73	0	0	0	30	0	0	0	0	0	// Excellent Sunlight Helm
+
+0	34	2	4	100	60	1	80	30	0	0		 //Knight Blade
+0	20	2	4	100	60	1	80	30	0	0		 //Knight Blade
+0	21	2	4	100	60	1	80	30	0	0		 //Dark Reign Blade
+2	12	2	4	100	60	1	80	30	0	0		 //Great Lord Scepter
+4	20	2	4	100	60	1	80	30	0	0		 //Arrow Viper Bow
+5	11	2	4	100	60	1	80	30	0	0		 //Staff of Kundun
+end
+
+//type	index	min-lvl	max-lvl		skill-rate	luck-rate	add	exc1-rate	exc2-rate	exc3-rate	arka-only									
+3000
+5	12	0	0	70	10	0	0	0	0	0		// Grand Viper Staff
+0	22	0	0	70	10	0	0	0	0	0		// Bone Blade
+4	21	0	0	70	10	0	0	0	0	0		// Sylph Wind Bow
+0	23	0	0	70	10	0	0	0	0	0		// Explosion Blade
+2	14	0	0	70	10	0	0	0	0	0		// Solay Scepter
+5	19	0	0	70	10	0	0	0	0	0		// Grand Viper Staff
+0	35	0	0	70	10	0	0	0	0	0		// Explosion Blade
+
+0	19	2	4	80	60	1	40	0	0	0		 //Divine AA
+2	13	2	4	80	60	1	40	0	0	0		 //Divine AA
+4	18	2	4	80	60	1	40	0	0	0		 //Divine AA
+5	36	2	4	80	60	1	40	0	0	0		 //Divine AA
+
+end
+end

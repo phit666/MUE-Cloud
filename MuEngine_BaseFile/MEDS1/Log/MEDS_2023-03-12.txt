@@ -1,0 +1,34 @@
+23:29:18  MEDS Init Done
+23:29:18  [MuOnlineDB] TID [0] ODBC Connection Successfull!
+23:29:18  SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+23:29:18  [HistoryDB] TID [0] ODBC Error On Connection!
+23:29:18  Recv Queue (0) thread started at initial capacity of 1000.
+23:29:18  [MuOnlineDB] TID [1] ODBC Connection Successfull!
+23:29:18  SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+23:29:18  [HistoryDB] TID [1] ODBC Error On Connection!
+23:29:18  Recv Queue (1) thread started at initial capacity of 1000.
+23:29:18  [MuOnlineDB] TID [2] ODBC Connection Successfull!
+23:29:18  SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+23:29:18  [HistoryDB] TID [2] ODBC Error On Connection!
+23:29:18  Recv Queue (2) thread started at initial capacity of 1000.
+23:29:18  [MuOnlineDB] TID [3] ODBC Connection Successfull!
+23:29:18  SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+23:29:18  [HistoryDB] TID [3] ODBC Error On Connection!
+23:29:18  Recv Queue (3) thread started at initial capacity of 1000.
+23:29:54  MEDS Init Done
+23:29:54  [MuOnlineDB] TID [0] ODBC Connection Successfull!
+23:29:54  SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+23:29:54  [HistoryDB] TID [0] ODBC Error On Connection!
+23:29:54  Recv Queue (0) thread started at initial capacity of 1000.
+23:29:54  [MuOnlineDB] TID [1] ODBC Connection Successfull!
+23:29:54  SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+23:29:54  [HistoryDB] TID [1] ODBC Error On Connection!
+23:29:54  Recv Queue (1) thread started at initial capacity of 1000.
+23:29:54  [MuOnlineDB] TID [2] ODBC Connection Successfull!
+23:29:54  SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+23:29:54  [HistoryDB] TID [2] ODBC Error On Connection!
+23:29:54  Recv Queue (2) thread started at initial capacity of 1000.
+23:29:54  [MuOnlineDB] TID [3] ODBC Connection Successfull!
+23:29:54  SQLSTATE:IM002, Diagnosis:[Microsoft][ODBC Driver Manager] Data source name not found and no default driver specified
+23:29:54  [HistoryDB] TID [3] ODBC Error On Connection!
+23:29:54  Recv Queue (3) thread started at initial capacity of 1000.

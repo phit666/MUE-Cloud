@@ -1,0 +1,8 @@
+// Kill GM reward item - Max 100 lines
+// luck - 2 means random / specific value 0 or 1
+/----------------------------------------------------------------------------------------
+|	Type	Index	Level	Luck	Skill	Option	Exc	ExcOptFixed
+/----------------------------------------------------------------------------------------
+	14	13	0	0	0	0	0	0	// BLESS
+	14	14	0	0	0	0	0	0	// SOUL
+	12	15	0	0	0	0	0	0	// CHAOS

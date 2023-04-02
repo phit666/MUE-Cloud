@@ -1,0 +1,26 @@
+//shop2 - [Lorencia] Wizard Shop
+
+//Spell Book
+15 3 0 0 0 0 0 //Fireball
+15 10 0 0 0 0 0 //powerwave
+
+//Staffs
+5 0 0 0 0 1 3 //Skullstaff
+5 1 0 0 0 1 2 //Angelic Staff
+5 2 0 0 0 1 1 //Serpentstaff
+//9 0 0 0 0 1 1 //Legendary Staff
+
+//Shield
+6 6 0 0 0 1 0 //Boneshield
+
+//Armor Pad+Bone (DW)
+7 2 0 0 0 1 2 //Pad helm
+8 2 0 0 0 1 2 //Pad armor
+9 2 0 0 0 1 2 //Pad pants
+10 2 0 0 0 1 2 //Pad gloves
+11 2 0 0 0 1 2 //Pad boots
+10 4 0 0 0 1 1 //Bone gloves
+11 4 0 0 0 1 1 //Bone boots
+
+
+end

@@ -1,0 +1,11 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+[GameServerInfo]
+ServerName       	= PVP1
+ServerCode       	= 0
+NonPk 		 	= 0
+PkLimitFree	 	= 1
+ConnectMemberLoad	= 0
