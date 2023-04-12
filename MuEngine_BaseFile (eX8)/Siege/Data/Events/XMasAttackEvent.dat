@@ -1,0 +1,60 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+
+//###########################################
+// XMas Attack Event
+//###########################################
+
+// Time Settings
+// OpenTime PlayTime CloseTime
+0
+3	    10	    5
+end
+
+// Radius Settings
+// RandomSize	RadiusMin	RadiusMax
+1
+15	                  3	                  6
+end
+
+// Monster Settings
+// MonsterID	MonsterRegen	MonsterAttack
+2
+476	0	1
+
+466	0	1
+466	0	1
+466	0	1
+466	0	1
+466	0	1
+466	0	1
+466	0	1
+466	0	1
+466	0	1
+466	0	1
+end
+
+// AttackEvent StartTime
+// Hour, Minute
+3
+00	20
+04	20
+06	20
+08	20
+10	20
+12	20
+14	20
+16	20
+18	20
+20	20
+end
+
+// AttackEvent Map Information 
+// [Map Number] [MinX] [MinY] [MaxX] [MaxY]
+4
+0	           66	     44	191     197		// MAP_INDEX_RORENCIA
+2	           111     14	232     125		// MAP_INDEX_DEVIAS
+3	           136     53	223     181		// MAP_INDEX_NORIA
+end

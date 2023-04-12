@@ -1,0 +1,33 @@
+0
+// port
+33300
+end
+
+1
+// game serial
+"6H969kl0312sXbT0"
+end
+
+2
+// block vm
+1
+end
+
+3
+// IP flood check
+// IP flood max hits
+// IP flood max span millisec
+// IP ban minutes
+1	50	1000	240
+end
+
+4
+// block mac
+1
+end
+
+5
+// max user idle (no hearbeat packet) seconds to dc
+300
+end
+

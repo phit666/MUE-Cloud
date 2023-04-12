@@ -1,6 +1,0 @@
-//3.데비아스에서 나오는 보스몹(고르곤급으로 +5짜리 아이템 나옴)
-// type
-12	15	0	0	0	0	//Jewel of Chaos
-14	14	0	0	0	0	//Jewel of Soul
-14	13	0	0	0	0	//Jewel of Bless
-14	16	0	0	0	0	//Jewel of Life

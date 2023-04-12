@@ -1,4 +1,0 @@
-// Connect user list
-// Only current game server.
-
-

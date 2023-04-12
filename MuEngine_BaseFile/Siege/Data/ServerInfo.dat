@@ -1,9 +1,0 @@
-[GameServerInfo]
-ServerName		= CzF-MAIN
-ServerCode		= 0
-PkLimitFree		= 0
-NonPK			= 0
-; PK 가 안되는 서버
-ConnectMemberLoad	= 0
-; 접속가능 멤버를 구성하여 다른 사람은 못들어 오게
-; 한다. ConnectMember.txt 구성

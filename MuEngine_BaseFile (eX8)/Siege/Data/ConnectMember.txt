@@ -1,0 +1,8 @@
+//############################################
+// POWERED BY MU ENGINE                                    //
+//                    WWW.MUENGINE.ORG                      //
+//###########################################
+// Allowed User Connect List
+// Only Current GameServer
+
+"admin"
