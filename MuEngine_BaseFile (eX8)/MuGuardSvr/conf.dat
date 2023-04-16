@@ -4,8 +4,37 @@
 end
 
 1
-// game serial
-"6H969kl0312sXbT0"
+// Client Serial (ClientExeSerial in commonloc.cfg of gameserver)
+"6H969kl0312sXbT0"	
+
+// Client Version (ClientExeVersion in commonloc.cfg of gameserver)
+"1.08.20"
+
+// Connect Server IP
+"192.168.1.107"
+
+// Connect Server Port (no effect right now)
+44405
+
+// Connect Server Key (CSPluginKey in mecs.ini)
+23343252
+
+//Client Window Title
+"Agartha eX TEST"
+
+// Launcher
+// Auto sync system will run this launcher after updating the client, read Auto Sync below.
+"Mu.exe"
+
+//Auto Sync Host
+// When a file from filechecksum.txt md5 value did not match the client (altered for cheating like editing player.bmd), muguard will download the original file from auto sync url.
+// If you want to protect Main.exe, you need to get its md5 value and list it in filechecksum.txt then zip it with name of Main.exe.zip then finally upload it ot sync folder of your webhost.
+"www.muonline.ph/sync"
+
+// Game Server IPs
+// List all the game server IP in your connect server serverlist and your connect server IP, separate each IP with comma.
+"139.99.4.112,139.99.4.113,139.99.4.114"
+
 end
 
 2
@@ -30,4 +59,6 @@ end
 // max user idle (no hearbeat packet) seconds to dc
 300
 end
+
+
 
